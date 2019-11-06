@@ -70,4 +70,5 @@ _Acta Oncologica 53, no. 8 (2014): 1064-1072. [[Link]()]_
 Zhou, Rong, **Chong Duan**, Changjiang Yang, and Zhengjie He.   _Chemistry–An Asian Journal 9, no. 4 (2014): 1183-1189. [[Link]()]_
 
 **Phosphine-triggered tandem annulation between Morita–Baylis–Hillman carbonates and dinucleophiles: Facile syntheses of oxazepanes, thiazepanes, and diazepanes**  
-Zhou, Rong, Jianfang Wang, **Chong Duan**, and Zhengjie He.  _Organic letters 14, no. 24 (2012): 6134-6137. [[Link]()]_
+Zhou, Rong, Jianfang Wang, **Chong Duan**, and Zhengjie He.    
+_Organic letters 14, no. 24 (2012): 6134-6137. [[Link]()]_
