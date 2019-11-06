@@ -4,13 +4,13 @@ layout: default
 
 # Chong Duan
 
-I am an Imaging Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at Pfizer. I am interested in applying molecular, functional, and structural imaging (MRI, PET/SPECT, and CT) to support drug development programs through all stages and therapeutic areas. I am excited about leveraging computer vision and machine/deep learning to mine imaging data to generate insights for decision-making.
+I am an Imaging Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at Pfizer.
 
-I received my PhD under the supervision of Professor Joseph JH Ackerman and Joel R Garbow at Washington University in St. Louis, working with Professor Joseph JH Ackerman. My PhD thesis was:
+I received my PhD under the supervision of Professor [Joseph JH Ackerman](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-ackerman) and [Joel R Garbow](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-garbow) at Washington University in St. Louis. My PhD thesis was:
 
 >[MRI in Cancer: Improving Methodology for Measuring Vascular Properties and Assessing Radiation Treatment Effects in Brain](https://doi.org/10.7936/K7SX6CN1)
 
-Following my PhD, I did my postdoctoral research on cardiovascular MRI with Professor Reza Nezafat at Beth Israel Deaconess Medical Center and Harvard Medical School.
+Following PhD, I did my postdoctoral research on cardiovascular MRI with Professor [Reza Nezafat](https://cardiacmr.hms.harvard.edu/people/reza-nezafat) at Beth Israel Deaconess Medical Center and Harvard Medical School.
 
 
 ## [](#header-1)Publications
@@ -21,54 +21,54 @@ _Magnetic resonance in medicine 81, no. 5 (2019): 3192-3201. [[Link](https://onl
 
 **Integrated motion correction and dictionary learning for free‐breathing myocardial T1 mapping**  
 Zhu, Yanjie, Jinkyu Kang, **Chong Duan**, Maryam Nezafat, Ulf Neisius, Jihye Jang, and Reza Nezafat.  
-_Magnetic resonance in medicine 81, no. 4 (2019): 2644-2654. [[Link]()]_
+_Magnetic resonance in medicine 81, no. 4 (2019): 2644-2654. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27579)]_
 
 **Cardiovascular magnetic resonance feature tracking strain analysis for discrimination between hypertensive heart disease and hypertrophic cardiomyopathy**  
 Neisius, Ulf, Lana Myerson, Ahmed S. Fahmy, Shiro Nakamori, Hossam El-Rewaidy, Gargi Joshi, **Chong Duan**, Warren J. Manning, and Reza Nezafat.  
-_PloS one 14, no. 8 (2019). [[Link]()]_
+_PloS one 14, no. 8 (2019). [[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221061)]_
 
 **Late effects of radiation prime the brain microenvironment for accelerated tumor growth**  
 **Duan, Chong**, Ruimeng Yang, Liya Yuan, John A. Engelbach, Christina I. Tsien, Keith M. Rich, Sonika M. Dahiya, Tanner M. Johanns, Joseph JH Ackerman, and Joel R. Garbow.  
-_International Journal of Radiation Oncology* Biology* Physics 103, no. 1 (2019): 190-194. [[Link]()]_
+_International Journal of Radiation Oncology* Biology* Physics 103, no. 1 (2019): 190-194. [[Link](https://www.redjournal.org/article/S0360-3016(18)33639-3/fulltext)]_
 
 **Inhibitors of HIF-1α and CXCR4 mitigate the development of radiation necrosis in mouse brain**  
 Yang, Ruimeng, **Chong Duan**, Liya Yuan, John A. Engelbach, Christina I. Tsien, Scott C. Beeman, Carlos J. Perez-Torres et al.  
-_International Journal of Radiation Oncology* Biology* Physics 100, no. 4 (2018): 1016-1025. [[Link]()]_
+_International Journal of Radiation Oncology* Biology* Physics 100, no. 4 (2018): 1016-1025. [[Link](https://www.redjournal.org/article/S0360-3016(17)34478-4/abstract)]_
 
 **Modeling dynamic contrast-enhanced MRI data with a constrained local AIF**  
 **Duan, Chong**, Jesper F. Kallehauge, Carlos J. Pérez-Torres, G. Larry Bretthorst, Scott C. Beeman, Kari Tanderup, Joseph JH Ackerman, and Joel R. Garbow.  
-_Molecular Imaging and Biology 20, no. 1 (2018): 150-159. [[Link]()]_
+_Molecular Imaging and Biology 20, no. 1 (2018): 150-159. [[Link](https://link.springer.com/article/10.1007%2Fs11307-017-1090-x)]_
 
 
 **Bayesian Modeling of NMR Data: Quantifying Longitudinal Relaxation in Vivo, and in Vitro with a Tissue-Water-Relaxation Mimic (Crosslinked Bovine Serum Albumin)**
 Meinerz, Kelsey, Scott C. Beeman, **Chong Duan**, G. Larry Bretthorst, Joel R. Garbow, and Joseph JH Ackerman.  
-_Applied magnetic resonance 49, no. 1 (2018): 3-24. [[Link]()]_
+_Applied magnetic resonance 49, no. 1 (2018): 3-24. [[Link](https://link.springer.com/article/10.1007%2Fs00723-017-0964-z)]_
 
 **Effect of off-resonance on T1 saturation recovery measurement in inhomogeneous fields**  
 **Duan, Chong**, Colm Ryan, Shin Utsuzawa, Yi-Qiao Song, and Martin D. Hürlimann.  
-_Journal of Magnetic Resonance 281 (2017): 31-43. [[Link]()]_
+_Journal of Magnetic Resonance 281 (2017): 31-43. [[Link](https://www.sciencedirect.com/science/article/pii/S1090780717301271)]_
 
 **Can anti-vascular endothelial growth factor antibody reverse radiation necrosis? A preclinical investigation**  
-**Duan, Chong**, Carlos J. Perez-Torres, Liya Yuan, John A. Engelbach, Scott C. Beeman, Christina I. Tsien, Keith M. Rich, Robert E. Schmidt, Joseph JH Ackerman, and Joel R. Garbow.   _Journal of neuro-oncology 133, no. 1 (2017): 9-16. [[Link]()]_
+**Duan, Chong**, Carlos J. Perez-Torres, Liya Yuan, John A. Engelbach, Scott C. Beeman, Christina I. Tsien, Keith M. Rich, Robert E. Schmidt, Joseph JH Ackerman, and Joel R. Garbow.   _Journal of neuro-oncology 133, no. 1 (2017): 9-16. [[Link](https://link.springer.com/article/10.1007%2Fs11060-017-2410-3)]_
 
 **Are complex DCE‐MRI models supported by clinical data?**  
-**Duan, Chong**, Jesper F. Kallehauge, G. Larry Bretthorst, Kari Tanderup, Joseph JH Ackerman, and Joel R. Garbow.   _Magnetic resonance in medicine 77, no. 3 (2017): 1329-1339. [[Link]()]_
+**Duan, Chong**, Jesper F. Kallehauge, G. Larry Bretthorst, Kari Tanderup, Joseph JH Ackerman, and Joel R. Garbow.   _Magnetic resonance in medicine 77, no. 3 (2017): 1329-1339. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26189)]_
 
 **Hyperthermic laser ablation of recurrent glioblastoma leads to temporary disruption of the peritumoral blood brain barrier**  
 Leuthardt, Eric C., **Chong Duan**, Michael J. Kim, Jian L. Campian, Albert H. Kim, Michelle M. Miller-Thomas, Joshua S. Shimony, and David D. Tran.  
-_PLoS One 11, no. 2 (2016): e0148613.[[Link]()]_
+_PLoS One 11, no. 2 (2016): e0148613.[[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148613)]_
 
 **Renal DCE-MRI model selection using bayesian probability theory**  
 Beeman, Scott C., Patrick Osei-Owusu, Chong Duan, John Engelbach, G. Larry Bretthorst, Joseph JH Ackerman, Kendall J. Blumer, and Joel R. Garbow.  
-_Tomography 1, no. 1 (2015): 61. [[Link]()]_
+_Tomography 1, no. 1 (2015): 61. [[Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6024409/)]_
 
 **Tracer kinetic model selection for dynamic contrast-enhanced magnetic resonance imaging of locally advanced cervical cancer**  
 Kallehauge, Jesper Folsted, Kari Tanderup, **Chong Duan**, Søren Haack, Erik Morre Pedersen, Jacob Christian Lindegaard, Lars Ulrik Fokdal, Sandy Mohamed Ismail Mohamed, and Thomas Nielsen.
-_Acta Oncologica 53, no. 8 (2014): 1064-1072. [[Link]()]_
+_Acta Oncologica 53, no. 8 (2014): 1064-1072. [[Link](https://www.tandfonline.com/doi/full/10.3109/0284186X.2014.937879)]_
 
 **Phosphane‐Catalyzed [4+ 1] Annulation between Nitroalkenes and Morita–Baylis–Hillman Carbonates: Facile Synthesis of Isoxazoline N‐Oxides by Phosphorus Ylides**  
-Zhou, Rong, **Chong Duan**, Changjiang Yang, and Zhengjie He.   _Chemistry–An Asian Journal 9, no. 4 (2014): 1183-1189. [[Link]()]_
+Zhou, Rong, **Chong Duan**, Changjiang Yang, and Zhengjie He.   _Chemistry–An Asian Journal 9, no. 4 (2014): 1183-1189. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/asia.201301633)]_
 
 **Phosphine-triggered tandem annulation between Morita–Baylis–Hillman carbonates and dinucleophiles: Facile syntheses of oxazepanes, thiazepanes, and diazepanes**  
 Zhou, Rong, Jianfang Wang, **Chong Duan**, and Zhengjie He.    
-_Organic letters 14, no. 24 (2012): 6134-6137. [[Link]()]_
+_Organic letters 14, no. 24 (2012): 6134-6137. [[Link](https://pubs.acs.org/doi/abs/10.1021/ol302696e)]_
