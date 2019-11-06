@@ -1,1 +1,3 @@
-# chongduan.github.io
+# Chong Duan
+
+/images/favphoto.jpg
