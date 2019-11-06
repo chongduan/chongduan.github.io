@@ -13,7 +13,11 @@ I received my PhD under the supervision of Professor [Joseph JH Ackerman](https:
 Following PhD, I did my postdoctoral research on cardiovascular MRI with Professor [Reza Nezafat](https://cardiacmr.hms.harvard.edu/people/reza-nezafat) at Beth Israel Deaconess Medical Center and Harvard Medical School.
 
 
-## [](#header-1)Publications
+## [](#header-1)Links
+[[GitHub](https://github.com/chongduan), [Google Scholar](https://scholar.google.com/citations?user=6hy7czgAAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/chongduan/), [Publons](https://publons.com/researcher/1191457/chong-duan/)]
+
+
+## [](#header-2)Publications
 
 **Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5 T**  
 _**Duan, Chong**, Yanjie Zhu, Jihye Jang, Jennifer Rodriguez, Ulf Neisius, Ahmed S. Fahmy, and Reza Nezafat._  
