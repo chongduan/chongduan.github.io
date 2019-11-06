@@ -8,3 +8,5 @@ I am an Imaging Data Scientist in the Digital Medicine & Translational Imaging (
 ## [](#header-1)Publications
 
 *   Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5T
+*   Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5T
+*   Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5T
