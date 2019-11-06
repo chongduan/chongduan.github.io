@@ -4,7 +4,7 @@ layout: default
 
 # Chong Duan
 
-I am an Imaging Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at Pfizer.
+I am an Imaging Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at Pfizer. I am interested in applying molecular, functional, and structural imaging (MRI, PET/SPECT, and CT) to support drug development programs through all stages and therapeutic areas. I am excited about leveraging computer vision and machine/deep learning to mine imaging data to generate insights for decision-making.
 
 I received my PhD under the supervision of Professor Joseph JH Ackerman and Joel R Garbow at Washington University in St. Louis, working with Professor Joseph JH Ackerman. My PhD thesis was:
 
