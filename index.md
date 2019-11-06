@@ -6,8 +6,11 @@ layout: default
 
 I am an Imaging Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at Pfizer.
 
-Duan, Chong, "MRI in Cancer: Improving Methodology for Measuring Vascular Properties and Assessing Radiation Treatment Effects in Brain" (2017). Arts & Sciences Electronic Theses and Dissertations. 1237.
-https://openscholarship.wustl.edu/art_sci_etds/1237
+I received my PhD under the supervision of Professor Joseph JH Ackerman and Joel R Garbow at Washington University in St. Louis, working with Professor Joseph JH Ackerman. My PhD thesis was:
+
+>[MRI in Cancer: Improving Methodology for Measuring Vascular Properties and Assessing Radiation Treatment Effects in Brain](https://doi.org/10.7936/K7SX6CN1)
+
+Following my PhD, I did my postdoctoral research on cardiovascular MRI with Professor Reza Nezafat at Beth Israel Deaconess Medical Center and Harvard Medical School.
 
 
 ## [](#header-1)Publications
