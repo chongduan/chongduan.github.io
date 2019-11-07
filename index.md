@@ -10,6 +10,8 @@ I received my PhD under the supervision of Professor [Joseph JH Ackerman](https:
 
 >[MRI in Cancer: Improving Methodology for Measuring Vascular Properties and Assessing Radiation Treatment Effects in Brain](https://doi.org/10.7936/K7SX6CN1)
 
+During my PhD, I did an internship with [Martin D Hurlimann](https://www.linkedin.com/in/martin-h%C3%BCrlimann-8349b137/) at [Schlumberger](https://www.slb.com/), where my research was focused on nuclear magnetic resonance as applied to oil well logging. Part of this research was published in the _Journal of Magnetic Resonance_. See more details [here](https://www.sciencedirect.com/science/article/abs/pii/S1090780717301271).
+
 Following PhD, I did my postdoctoral research on cardiovascular MRI with Professor [Reza Nezafat](https://cardiacmr.hms.harvard.edu/people/reza-nezafat) at Beth Israel Deaconess Medical Center and Harvard Medical School.
 
 
