@@ -1,0 +1,7 @@
+• Imaging Scientist and Data Scientist with problem-solving, critical-thinking, and self-learning skills obtained from 7+ years’ independent research
+
+• Extensive experience in machine learning (generalized linear model, logistic regression, KNN, cross-validation, support vector machine, decision tree, random forest, bagging, boosting, neural network), and computer vision. More information at https://github.com/chongduan. Some computer vision projects available at https://youtu.be/YT2kZfJsFHo, and https://youtu.be/Ql1SnQqtLqw
+
+• Experience in applied statistics (hypothesis testing, confidence interval, ANOVA, Bland-Altman, Bayesian inference), with an ongoing Certificate in Applied Biostatistics offered by Harvard Catalyst Postgraduate Education Program
+
+• Proficiency in Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tensorflow/keras), R (ggplot2, tm, ggally), Matlab, SQL, C++, Git, Docker, and Unix-like systems
