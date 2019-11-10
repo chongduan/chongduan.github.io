@@ -4,15 +4,15 @@ layout: default
 
 # Chong Duan
 
-I am an Imaging Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at Pfizer. I am interested in medical imaging, machine learning, and computer vision. I am also currently pursuing a [Master of Science in Computer Science](http://www.omscs.gatech.edu/) degree at Georgia Institute of Technology, with a specialization focused on Machine Learning.
+I am an Imaging Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at [Pfizer](https://www.pfizer.com/). I am interested in medical imaging, machine learning, and computer vision. I am also currently pursuing a [Master of Science in Computer Science](http://www.omscs.gatech.edu/) degree at [Georgia Institute of Technology](https://www.gatech.edu/), with a specialization focused on Machine Learning.
 
-I received my PhD in Phyiscal Chemistry under the supervision of Professor [Joseph JH Ackerman](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-ackerman) and [Joel R Garbow](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-garbow) at Washington University in St. Louis. My PhD thesis is:
+I received my PhD in Phyiscal Chemistry under the supervision of Professor [Joseph JH Ackerman](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-ackerman) and [Joel R Garbow](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-garbow) at [Washington University in St. Louis](https://wustl.edu/). My PhD thesis is:
 
 >[MRI in Cancer: Improving Methodology for Measuring Vascular Properties and Assessing Radiation Treatment Effects in Brain](https://doi.org/10.7936/K7SX6CN1)
 
 During my PhD, I did an internship with [Martin D Hurlimann](https://www.linkedin.com/in/martin-h%C3%BCrlimann-8349b137/) at [Schlumberger](https://www.slb.com/), where my research was focused on nuclear magnetic resonance (NMR) as applied to oil well logging. Part of this research was published in the _Journal of Magnetic Resonance_. See more details [here](https://www.sciencedirect.com/science/article/abs/pii/S1090780717301271).
 
-Following PhD, I did my postdoctoral research on cardiovascular MRI with Professor [Reza Nezafat](https://cardiacmr.hms.harvard.edu/people/reza-nezafat) at Beth Israel Deaconess Medical Center and Harvard Medical School. Before I joined Pfizer in 2019, I worked as a Study Director at [Invicro](https://invicro.com/), an imaging software and service company based in Boston.
+Following PhD, I did my postdoctoral research on cardiovascular MRI with Professor [Reza Nezafat](https://cardiacmr.hms.harvard.edu/people/reza-nezafat) at [Beth Israel Deaconess Medical Center](https://www.bidmc.org/) and [Harvard Medical School](https://hms.harvard.edu/). Before I joined Pfizer in 2019, I worked as a Study Director at [Invicro](https://invicro.com/), an imaging software and service company based in Boston.
 
 
 ## [](#header-1)Links
