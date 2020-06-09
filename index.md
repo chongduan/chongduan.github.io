@@ -4,7 +4,7 @@ layout: default
 
 # Chong Duan
 
-I am an imaging data scientist in the Digital Medicine & Translational Imaging (DMTI) group at [Pfizer](https://www.pfizer.com/). I am interested in medical imaging, machine learning, and computer vision. I am also pursuing a [Master of Science in Computer Science](http://www.omscs.gatech.edu/) degree (part-time) at [Georgia Institute of Technology](https://www.gatech.edu/), with a specialization on machine learning.
+I am an Imaging Lead/Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at [Pfizer](https://www.pfizer.com/). I am interested in medical imaging, machine learning, and computer vision.
 
 I received my PhD in Phyiscal Chemistry / Biophysics under the supervision of Professor [Joseph JH Ackerman](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-ackerman) and [Joel R Garbow](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-garbow) at [Washington University in St. Louis](https://wustl.edu/). My PhD thesis is:
 
@@ -14,12 +14,18 @@ During my PhD, I did an internship with [Martin D Hurlimann](https://www.linkedi
 
 Following PhD, I did my postdoctoral research on cardiovascular MRI with Professor [Reza Nezafat](https://cardiacmr.hms.harvard.edu/people/reza-nezafat) at [Beth Israel Deaconess Medical Center](https://www.bidmc.org/) and [Harvard Medical School](https://hms.harvard.edu/). Before I joined Pfizer in 2019, I worked as a Study Director at [Invicro](https://invicro.com/), an imaging software and service company based in Boston.
 
+I am currently also pursuing a [Master of Science in Computer Science](http://www.omscs.gatech.edu/) degree (part-time) at [Georgia Institute of Technology](https://www.gatech.edu/), with a specialization on machine learning.
+
 
 ## [](#header-1)Links
 [[GitHub](https://github.com/chongduan), [Google Scholar](https://scholar.google.com/citations?user=6hy7czgAAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/chongduan/), [Publons](https://publons.com/researcher/1191457/chong-duan/)]
 
 
 ## [](#header-2)Publications
+
+**Automated Myocardial T2 and Extracellular Volume Quantification in Cardiac MRI Using Transfer Learning–based Myocardium Segmentation**  
+Yanjie Zhu, Ahmed S Fahmy, **Chong Duan**, Shiro Nakamori, Reza Nezafat  
+_Radiology: Artificial Intelligence 2.1 (2020): e190034.[[Link](https://pubs.rsna.org/doi/abs/10.1148/ryai.2019190034)]_
 
 **Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5 T**  
 _**Duan, Chong**, Yanjie Zhu, Jihye Jang, Jennifer Rodriguez, Ulf Neisius, Ahmed S. Fahmy, and Reza Nezafat._  
