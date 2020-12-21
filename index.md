@@ -56,7 +56,7 @@ _International Journal of Radiation Oncology* Biology* Physics 100, no. 4 (2018)
 _Molecular Imaging and Biology 20, no. 1 (2018): 150-159. [[Link](https://link.springer.com/article/10.1007%2Fs11307-017-1090-x)]_
 
 
-**Bayesian Modeling of NMR Data: Quantifying Longitudinal Relaxation in Vivo, and in Vitro with a Tissue-Water-Relaxation Mimic (Crosslinked Bovine Serum Albumin)**
+**Bayesian Modeling of NMR Data: Quantifying Longitudinal Relaxation in Vivo, and in Vitro with a Tissue-Water-Relaxation Mimic (Crosslinked Bovine Serum Albumin)**.  
 Meinerz, Kelsey, Scott C. Beeman, **Chong Duan**, G. Larry Bretthorst, Joel R. Garbow, and Joseph JH Ackerman.  
 _Applied magnetic resonance 49, no. 1 (2018): 3-24. [[Link](https://link.springer.com/article/10.1007%2Fs00723-017-0964-z)]_
 
