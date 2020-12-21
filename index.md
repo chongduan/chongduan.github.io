@@ -22,35 +22,35 @@ I am currently also pursuing a [Master of Science in Computer Science](http://ww
 
 
 ## [](#header-2)Publications
-
-![Bridge_Seg_Model](./images/IEEE_access_model.gif)  
 **Bridge Segmentation Performance Gap Via Evolving Shape Prior**  
 Chaoyu Chen, Xin Yang, Haoran Dou, Ruobing Huang, Xiaoqiong Huang, Xu Wang, **Chong Duan**, Shengli Li, Wufeng Xue, Pheng Ann Heng, Dong Ni  
-_IEEE Access 8 (2020): 173961-173973. [[Link](https://ieeexplore.ieee.org/abstract/document/9204618)]_
+_IEEE Access 8 (2020): 173961-173973. [[Link](https://ieeexplore.ieee.org/abstract/document/9204618)]_  
+![Bridge_Seg_Model](./images/IEEE_access_model.gif)  
 
 
-![AutoMyoT2Model](./images/Radiology_AI_model.png)  
 **Automated Myocardial T2 and Extracellular Volume Quantification in Cardiac MRI Using Transfer Learning–based Myocardium Segmentation**  
 Yanjie Zhu, Ahmed S Fahmy, **Chong Duan**, Shiro Nakamori, Reza Nezafat  
-_Radiology: Artificial Intelligence 2.1 (2020): e190034.[[Link](https://pubs.rsna.org/doi/abs/10.1148/ryai.2019190034)]_
+_Radiology: Artificial Intelligence 2.1 (2020): e190034.[[Link](https://pubs.rsna.org/doi/abs/10.1148/ryai.2019190034)]_  
+![AutoMyo_Model](./images/Radiology_AI_model.png)  
 
 
-![HYTOM_Ex](./images/HYTOM_example.png)  
 **Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5 T**  
 _**Duan, Chong**, Yanjie Zhu, Jihye Jang, Jennifer Rodriguez, Ulf Neisius, Ahmed S. Fahmy, and Reza Nezafat._  
-_Magnetic resonance in medicine 81, no. 5 (2019): 3192-3201. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27636), [Code](https://github.com/chongduan/HYTOM)]_
+_Magnetic resonance in medicine 81, no. 5 (2019): 3192-3201. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27636), [Code](https://github.com/chongduan/HYTOM)]_  
+![HYTOM_Ex](./images/HYTOM_example.png)  
 
 
-![MoDic_Ex](./images/MoDic_example.png)  
 **Integrated motion correction and dictionary learning for free‐breathing myocardial T1 mapping**  
 Zhu, Yanjie, Jinkyu Kang, **Chong Duan**, Maryam Nezafat, Ulf Neisius, Jihye Jang, and Reza Nezafat.  
-_Magnetic resonance in medicine 81, no. 4 (2019): 2644-2654. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27579)]_
+_Magnetic resonance in medicine 81, no. 4 (2019): 2644-2654. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27579)]_  
+![MoDic_Ex](./images/MoDic_example.png)  
 
 
-![CMR_Strain](./images/PLOS_CMR_Strain.png)  
 **Cardiovascular magnetic resonance feature tracking strain analysis for discrimination between hypertensive heart disease and hypertrophic cardiomyopathy**  
 Neisius, Ulf, Lana Myerson, Ahmed S. Fahmy, Shiro Nakamori, Hossam El-Rewaidy, Gargi Joshi, **Chong Duan**, Warren J. Manning, and Reza Nezafat.  
-_PloS one 14, no. 8 (2019). [[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221061)]_
+_PloS one 14, no. 8 (2019). [[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221061)]_  
+![CMR_Strain](./images/PLOS_CMR_Strain.png)  
+
 
 **Late effects of radiation prime the brain microenvironment for accelerated tumor growth**  
 **Duan, Chong**, Ruimeng Yang, Liya Yuan, John A. Engelbach, Christina I. Tsien, Keith M. Rich, Sonika M. Dahiya, Tanner M. Johanns, Joseph JH Ackerman, and Joel R. Garbow.  
