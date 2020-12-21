@@ -6,7 +6,7 @@ layout: default
 
 I am an Imaging Lead/Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at [Pfizer](https://www.pfizer.com/). I am interested in medical imaging, machine learning, and computer vision.
 
-I received my PhD in Phyiscal Chemistry / Biophysics under the supervision of Professor [Joseph JH Ackerman](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-ackerman) and [Joel R Garbow](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-garbow) at [Washington University in St. Louis](https://wustl.edu/). My PhD thesis is:
+I received my PhD in Physical Chemistry / Biophysics under the supervision of Professor [Joseph JH Ackerman](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-ackerman) and [Joel R Garbow](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-garbow) at [Washington University in St. Louis](https://wustl.edu/). My PhD thesis is:
 
 >[MRI in Cancer: Improving Methodology for Measuring Vascular Properties and Assessing Radiation Treatment Effects in Brain](https://doi.org/10.7936/K7SX6CN1)
 
@@ -14,7 +14,7 @@ During my PhD, I did an internship with [Martin D Hurlimann](https://www.linkedi
 
 Following PhD, I did my postdoctoral research on cardiovascular MRI with Professor [Reza Nezafat](https://cardiacmr.hms.harvard.edu/people/reza-nezafat) at [Beth Israel Deaconess Medical Center](https://www.bidmc.org/) and [Harvard Medical School](https://hms.harvard.edu/). Before I joined Pfizer in 2019, I worked as a Study Director at [Invicro](https://invicro.com/), an imaging software and service company based in Boston.
 
-I am currently also pursuing a [Master of Science in Computer Science](http://www.omscs.gatech.edu/) degree (part-time) at [Georgia Institute of Technology](https://www.gatech.edu/), with a specialization on machine learning.
+I am currently pursuing a [Master of Science in Computer Science](http://www.omscs.gatech.edu/) degree (part-time) at [Georgia Institute of Technology](https://www.gatech.edu/), with a specialization on machine learning.
 
 
 ## [](#header-1)Links
@@ -26,35 +26,45 @@ I am currently also pursuing a [Master of Science in Computer Science](http://ww
 Chaoyu Chen, Xin Yang, Haoran Dou, Ruobing Huang, Xiaoqiong Huang, Xu Wang, **Chong Duan**, Shengli Li, Wufeng Xue, Pheng Ann Heng, Dong Ni  
 _IEEE Access 8 (2020): 173961-173973. [[Link](https://ieeexplore.ieee.org/abstract/document/9204618)]_  
 ![Bridge_Seg_Model](./images/IEEE_access_model.gif)  
-
+<br />
+<br />
 
 **Automated Myocardial T2 and Extracellular Volume Quantification in Cardiac MRI Using Transfer Learning–based Myocardium Segmentation**  
 Yanjie Zhu, Ahmed S Fahmy, **Chong Duan**, Shiro Nakamori, Reza Nezafat  
 _Radiology: Artificial Intelligence 2.1 (2020): e190034.[[Link](https://pubs.rsna.org/doi/abs/10.1148/ryai.2019190034)]_  
 ![AutoMyo_Model](./images/Radiology_AI_model.png)  
+<br />
+<br />
 
 
 **Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5 T**  
 _**Duan, Chong**, Yanjie Zhu, Jihye Jang, Jennifer Rodriguez, Ulf Neisius, Ahmed S. Fahmy, and Reza Nezafat._  
 _Magnetic resonance in medicine 81, no. 5 (2019): 3192-3201. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27636), [Code](https://github.com/chongduan/HYTOM)]_  
 ![HYTOM_Ex](./images/HYTOM_example.png)  
+<br />
+<br />
 
 
 **Integrated motion correction and dictionary learning for free‐breathing myocardial T1 mapping**  
 Zhu, Yanjie, Jinkyu Kang, **Chong Duan**, Maryam Nezafat, Ulf Neisius, Jihye Jang, and Reza Nezafat.  
 _Magnetic resonance in medicine 81, no. 4 (2019): 2644-2654. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27579)]_  
 ![MoDic_Ex](./images/MoDic_example.png)  
+<br />
+<br />
 
 
 **Cardiovascular magnetic resonance feature tracking strain analysis for discrimination between hypertensive heart disease and hypertrophic cardiomyopathy**  
 Neisius, Ulf, Lana Myerson, Ahmed S. Fahmy, Shiro Nakamori, Hossam El-Rewaidy, Gargi Joshi, **Chong Duan**, Warren J. Manning, and Reza Nezafat.  
 _PloS one 14, no. 8 (2019). [[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221061)]_  
 ![CMR_Strain](./images/PLOS_CMR_Strain.png)  
+<br />
+<br />
 
 
 **Late effects of radiation prime the brain microenvironment for accelerated tumor growth**  
 **Duan, Chong**, Ruimeng Yang, Liya Yuan, John A. Engelbach, Christina I. Tsien, Keith M. Rich, Sonika M. Dahiya, Tanner M. Johanns, Joseph JH Ackerman, and Joel R. Garbow.  
-_International Journal of Radiation Oncology* Biology* Physics 103, no. 1 (2019): 190-194. [[Link](https://www.redjournal.org/article/S0360-3016(18)33639-3/fulltext)]_
+_International Journal of Radiation Oncology* Biology* Physics 103, no. 1 (2019): 190-194. [[Link](https://www.redjournal.org/article/S0360-3016(18)33639-3/fulltext)]_  
+
 
 **Inhibitors of HIF-1α and CXCR4 mitigate the development of radiation necrosis in mouse brain**  
 Yang, Ruimeng, **Chong Duan**, Liya Yuan, John A. Engelbach, Christina I. Tsien, Scott C. Beeman, Carlos J. Perez-Torres et al.  
