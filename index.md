@@ -23,6 +23,10 @@ I am currently also pursuing a [Master of Science in Computer Science](http://ww
 
 ## [](#header-2)Publications
 
+**Bridge Segmentation Performance Gap Via Evolving Shape Prior**  
+Chaoyu Chen, Xin Yang, Haoran Dou, Ruobing Huang, Xiaoqiong Huang, Xu Wang, **Chong Duan**, Shengli Li, Wufeng Xue, Pheng Ann Heng, Dong Ni 
+_IEEE Access 8 (2020): 173961-173973.[[Link](https://ieeexplore.ieee.org/abstract/document/9204618]_
+
 **Automated Myocardial T2 and Extracellular Volume Quantification in Cardiac MRI Using Transfer Learning–based Myocardium Segmentation**  
 Yanjie Zhu, Ahmed S Fahmy, **Chong Duan**, Shiro Nakamori, Reza Nezafat  
 _Radiology: Artificial Intelligence 2.1 (2020): e190034.[[Link](https://pubs.rsna.org/doi/abs/10.1148/ryai.2019190034)]_
