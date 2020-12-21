@@ -23,6 +23,7 @@ I am currently also pursuing a [Master of Science in Computer Science](http://ww
 
 ## [](#header-2)Publications
 
+![Bridge_Seg_Model](./images/IEEE_access_model.gif)  
 **Bridge Segmentation Performance Gap Via Evolving Shape Prior**  
 Chaoyu Chen, Xin Yang, Haoran Dou, Ruobing Huang, Xiaoqiong Huang, Xu Wang, **Chong Duan**, Shengli Li, Wufeng Xue, Pheng Ann Heng, Dong Ni  
 _IEEE Access 8 (2020): 173961-173973. [[Link](https://ieeexplore.ieee.org/abstract/document/9204618)]_
