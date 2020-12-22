@@ -10,7 +10,7 @@ I received my PhD in Physical Chemistry / Biophysics under the supervision of Pr
 
 >[MRI in Cancer: Improving Methodology for Measuring Vascular Properties and Assessing Radiation Treatment Effects in Brain](https://doi.org/10.7936/K7SX6CN1)
 
-During my PhD, I did an internship with [Martin D Hurlimann](https://www.linkedin.com/in/martin-h%C3%BCrlimann-8349b137/) at [Schlumberger](https://www.slb.com/), where my research was focused on nuclear magnetic resonance (NMR) as applied to oil well logging. Part of this research was published in the _Journal of Magnetic Resonance_. See more details [here](https://www.sciencedirect.com/science/article/abs/pii/S1090780717301271).
+During my PhD, I did an internship with [Martin D Hurlimann](https://www.linkedin.com/in/martin-h%C3%BCrlimann-8349b137/) at [Schlumberger](https://www.slb.com/), where my research focused on nuclear magnetic resonance (NMR) as applied to oil-well logging.  
 
 Following PhD, I did my postdoctoral research on cardiovascular MRI with Professor [Reza Nezafat](https://cardiacmr.hms.harvard.edu/people/reza-nezafat) at [Beth Israel Deaconess Medical Center](https://www.bidmc.org/) and [Harvard Medical School](https://hms.harvard.edu/). Before I joined Pfizer in 2019, I worked as a Study Director at [Invicro](https://invicro.com/), an imaging software and service company based in Boston.
 
@@ -64,34 +64,57 @@ _PloS one 14, no. 8 (2019). [[Link](https://journals.plos.org/plosone/article?id
 **Late effects of radiation prime the brain microenvironment for accelerated tumor growth**  
 **Duan, Chong**, Ruimeng Yang, Liya Yuan, John A. Engelbach, Christina I. Tsien, Keith M. Rich, Sonika M. Dahiya, Tanner M. Johanns, Joseph JH Ackerman, and Joel R. Garbow.  
 _International Journal of Radiation Oncology* Biology* Physics 103, no. 1 (2019): 190-194. [[Link](https://www.redjournal.org/article/S0360-3016(18)33639-3/fulltext)]_  
-
+![redjournal_tumor](./images/redjournal_tumor.jpg)  
+<br />
+<br />
 
 **Inhibitors of HIF-1α and CXCR4 mitigate the development of radiation necrosis in mouse brain**  
 Yang, Ruimeng, **Chong Duan**, Liya Yuan, John A. Engelbach, Christina I. Tsien, Scott C. Beeman, Carlos J. Perez-Torres et al.  
-_International Journal of Radiation Oncology* Biology* Physics 100, no. 4 (2018): 1016-1025. [[Link](https://www.redjournal.org/article/S0360-3016(17)34478-4/abstract)]_
+_International Journal of Radiation Oncology* Biology* Physics 100, no. 4 (2018): 1016-1025. [[Link](https://www.redjournal.org/article/S0360-3016(17)34478-4/abstract)]_  
+![redjournal_karen](./images/redjournal_Karen.jpg)  
+<br />
+<br />
 
 **Modeling dynamic contrast-enhanced MRI data with a constrained local AIF**  
 **Duan, Chong**, Jesper F. Kallehauge, Carlos J. Pérez-Torres, G. Larry Bretthorst, Scott C. Beeman, Kari Tanderup, Joseph JH Ackerman, and Joel R. Garbow.  
-_Molecular Imaging and Biology 20, no. 1 (2018): 150-159. [[Link](https://link.springer.com/article/10.1007%2Fs11307-017-1090-x)]_
+_Molecular Imaging and Biology 20, no. 1 (2018): 150-159. [[Link](https://link.springer.com/article/10.1007%2Fs11307-017-1090-x)]_  
+![cLAIF](./images/cLAIF.png)  
+<br />
+<br />
 
 
 **Bayesian Modeling of NMR Data: Quantifying Longitudinal Relaxation in Vivo, and in Vitro with a Tissue-Water-Relaxation Mimic (Crosslinked Bovine Serum Albumin)**.  
 Meinerz, Kelsey, Scott C. Beeman, **Chong Duan**, G. Larry Bretthorst, Joel R. Garbow, and Joseph JH Ackerman.  
-_Applied magnetic resonance 49, no. 1 (2018): 3-24. [[Link](https://link.springer.com/article/10.1007%2Fs00723-017-0964-z)]_
+_Applied magnetic resonance 49, no. 1 (2018): 3-24. [[Link](https://link.springer.com/article/10.1007%2Fs00723-017-0964-z)]_  
+![BayesianModel](./images/BayesianModeling.png)  
+<br />
+<br />
 
 **Effect of off-resonance on T1 saturation recovery measurement in inhomogeneous fields**  
 **Duan, Chong**, Colm Ryan, Shin Utsuzawa, Yi-Qiao Song, and Martin D. Hürlimann.  
-_Journal of Magnetic Resonance 281 (2017): 31-43. [[Link](https://www.sciencedirect.com/science/article/pii/S1090780717301271)]_
+_Journal of Magnetic Resonance 281 (2017): 31-43. [[Link](https://www.sciencedirect.com/science/article/pii/S1090780717301271)]_  
+![JMR_SDR](./images/JMR_SDR.jpg)  
+<br />
+<br />
 
 **Can anti-vascular endothelial growth factor antibody reverse radiation necrosis? A preclinical investigation**  
-**Duan, Chong**, Carlos J. Perez-Torres, Liya Yuan, John A. Engelbach, Scott C. Beeman, Christina I. Tsien, Keith M. Rich, Robert E. Schmidt, Joseph JH Ackerman, and Joel R. Garbow.   _Journal of neuro-oncology 133, no. 1 (2017): 9-16. [[Link](https://link.springer.com/article/10.1007%2Fs11060-017-2410-3)]_
+**Duan, Chong**, Carlos J. Perez-Torres, Liya Yuan, John A. Engelbach, Scott C. Beeman, Christina I. Tsien, Keith M. Rich, Robert E. Schmidt, Joseph JH Ackerman, and Joel R. Garbow.   _Journal of neuro-oncology 133, no. 1 (2017): 9-16. [[Link](https://link.springer.com/article/10.1007%2Fs11060-017-2410-3)]_  
+![JNO_AntiVEGF](./images/JNO.png)  
+<br />
+<br />
 
 **Are complex DCE‐MRI models supported by clinical data?**  
-**Duan, Chong**, Jesper F. Kallehauge, G. Larry Bretthorst, Kari Tanderup, Joseph JH Ackerman, and Joel R. Garbow.   _Magnetic resonance in medicine 77, no. 3 (2017): 1329-1339. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26189)]_
+**Duan, Chong**, Jesper F. Kallehauge, G. Larry Bretthorst, Kari Tanderup, Joseph JH Ackerman, and Joel R. Garbow.   _Magnetic resonance in medicine 77, no. 3 (2017): 1329-1339. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26189)]_  
+![MRM_DCE](./images/mrm_DCEModels.jpg)  
+<br />
+<br />
 
 **Hyperthermic laser ablation of recurrent glioblastoma leads to temporary disruption of the peritumoral blood brain barrier**  
 Leuthardt, Eric C., **Chong Duan**, Michael J. Kim, Jian L. Campian, Albert H. Kim, Michelle M. Miller-Thomas, Joshua S. Shimony, and David D. Tran.  
-_PLoS One 11, no. 2 (2016): e0148613.[[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148613)]_
+_PLoS One 11, no. 2 (2016): e0148613.[[Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148613)]_  
+![PLOS_DCE](./images/PLOS_DCE.png)  
+<br />
+<br />
 
 **Renal DCE-MRI model selection using bayesian probability theory**  
 Beeman, Scott C., Patrick Osei-Owusu, Chong Duan, John Engelbach, G. Larry Bretthorst, Joseph JH Ackerman, Kendall J. Blumer, and Joel R. Garbow.  
