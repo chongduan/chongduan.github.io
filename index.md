@@ -21,7 +21,21 @@ I am currently pursuing a [Master of Science in Computer Science](http://www.oms
 [[GitHub](https://github.com/chongduan), [Google Scholar](https://scholar.google.com/citations?user=6hy7czgAAAAJ&hl=en), [Linkedin](https://www.linkedin.com/in/chongduan/), [Publons](https://publons.com/researcher/1191457/chong-duan/)]
 
 
-## [](#header-2)Publications
+## [](#header-2)Invited Talks and Oral Presentations
+**27th annual meeting of the International Society of Magnetic Resonance in Medicine**, “CMR in Kidney Failure: Non-Contrast Imaging”, Montreal, Québec, Canada, 2019 [Invited Session Moderator]  
+
+**22nd annual meeting of the Society for Cardiovascular Magnetic Resonance**, “Non-contrast Myocardial Viability Assessment Using a Hybrid Native T1 and Magnetization Transfer Imaging Sequence”, Bellevue, Washington, 2019  
+
+**22nd annual meeting of the Society for Cardiovascular Magnetic Resonance**, “Focus Session 6: MR Techniques and Methods: Non-contrast CMR and New Contrast Mechanisms”, Bellevue, Washington, 2019 [Invited Session Moderator]  
+
+**Genentech Inc**, South San Francisco, CA, “Probing Structures with Magnetic Resonance from Cardiology to Oncology”, 2018  
+
+**25th annual meeting of the International Society of Magnetic Resonance in Medicine**, “Irradiated Brain Parenchyma Promotes Virulent Proliferation of Naive Glioma Cells: Mouse Model of Recurrent Glioblastoma”, Honolulu, Hawaii, 2017  
+
+**24th annual meeting of the International Society of Magnetic Resonance in Medicine**, “Can anti-VEGF Antibody Reverse Radiation Necrosis? A Preclinical Investigation”, Singapore, 2016  
+
+
+## [](#header-3)Publications
 **Bridge Segmentation Performance Gap Via Evolving Shape Prior**  
 Chaoyu Chen, Xin Yang, Haoran Dou, Ruobing Huang, Xiaoqiong Huang, Xu Wang, **Chong Duan**, Shengli Li, Wufeng Xue, Pheng Ann Heng, Dong Ni  
 _IEEE Access 8 (2020): 173961-173973. [[Link](https://ieeexplore.ieee.org/abstract/document/9204618)]_  
