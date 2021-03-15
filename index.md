@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Chong Duan
+# About me
 
 I am an Imaging Lead/Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at [Pfizer](https://www.pfizer.com/). I am interested in medical imaging, machine learning, and computer vision.
 
