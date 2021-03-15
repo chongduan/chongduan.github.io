@@ -28,7 +28,7 @@ twitter_username: chongduan520
 github_username:  chongduan
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
