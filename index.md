@@ -6,7 +6,7 @@ layout: default
 
 I am an Imaging Lead/Data Scientist in the Digital Medicine & Translational Imaging (DMTI) group at [Pfizer](https://www.pfizer.com/). I am interested in medical imaging, machine learning, and computer vision.
 
-I received my PhD in Physical Chemistry / Biophysics under the supervision of Professor [Joseph JH Ackerman](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-ackerman) and [Joel R Garbow](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-garbow) at [Washington University in St. Louis](https://wustl.edu/). My PhD thesis is:
+I received my PhD in Physical Chemistry/Biophysics under the supervision of Professor [Joseph JH Ackerman](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-ackerman) and [Joel R Garbow](https://www.mir.wustl.edu/research/research-laboratories/biomedical-magnetic-resonance-laboratory-bmrl/people/bio-garbow) at [Washington University in St. Louis](https://wustl.edu/). My PhD thesis is:
 
 >[MRI in Cancer: Improving Methodology for Measuring Vascular Properties and Assessing Radiation Treatment Effects in Brain](https://doi.org/10.7936/K7SX6CN1)
 
