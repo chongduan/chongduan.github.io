@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Fully Automated Mouse Echocardiography Analysis Using Deep Convolutional Neural Networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: ''
+date: 2022-09-22
+venue: 'American Journal of Physiology-Heart and Circulatory Physiology'
+paperurl: 'https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022'
+citation: 'Duan, C., Montgomery, M.K., Chen, X., Ullas, S., Stansfield, J., McElhanon, K. and Hirenallur-Shanthappa, D., 2022. Fully automated mouse echocardiography analysis using deep convolutional neural networks. American Journal of Physiology-Heart and Circulatory Physiology, 323(4), pp.H628-H639.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about fully automated mouse echocardiography analysis.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://chongduan.github.io/files/ajpheart.00208.2022.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Duan, C., Montgomery, M.K., Chen, X., Ullas, S., Stansfield, J., McElhanon, K. and Hirenallur-Shanthappa, D., 2022. Fully automated mouse echocardiography analysis using deep convolutional neural networks. American Journal of Physiology-Heart and Circulatory Physiology, 323(4), pp.H628-H639.
