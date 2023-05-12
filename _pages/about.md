@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Imaging AI Lead in the Digital Sciences & Translational Imaging group within Early Clinical Development at Pfizer. I am interested in biomedical imaging, machine learning, and drug R&D.
+## [](#header-1)About me
+I am the Imaging AI Lead in the Digital Sciences & Translational Imaging group within Early Clinical Development at [Pfizer](https://www.pfizer.com/). I am interested in biomedical imaging, machine learning, and drug R&D.
 
 I received a BSc from Nankai University, an MSc from Georgia Institute of Technology, and a PhD from Washington University in St. Louis (Advisor: [Joseph JH Ackerman](https://www.mir.wustl.edu/employees/joseph-ackerman/)). My PhD work focused on cancer imaging:
 
@@ -20,7 +21,7 @@ Following PhD, I did my postdoctoral research on cardiovascular imaging with [Re
 I currently lead the development of novel ML-based solutions to support drug R&D programs across therapeutic areas. We recently developed a fully automated AI system for analyzing pre-clinical echocardiography videos ([Paper](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022), [AWS Blog](https://aws.amazon.com/blogs/industries/pfizers-echocardiography-analysis-framework-reduces-time-by-92-using-aws/)). This project won Pfizer's Breakthrough Science & Innovation award in 2021, the highest honor that can be bestowed to an R&D colleague.
 
 
-## [](#header-3)Publications
+## [](#header-2)Publications
 **Fully Automated Mouse Echocardiography Analysis Using Deep Convolutional Neural Networks**  
 **Chong Duan**, Mary Kate Montgomery, Xian Chen, Soumya Ullas, John Stansfield, Kevin McElhanon, Dinesh Hirenallur-Shanthappa
 _American Journal of Physiology-Heart and Circulatory Physiology [[Link](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022)]_  
