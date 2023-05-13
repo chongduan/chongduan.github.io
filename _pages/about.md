@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: #"About me"
+title: "About me"
 excerpt: #"About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## About me
 I am the Imaging AI Lead in the Digital Sciences & Translational Imaging group within Early Clinical Development at [Pfizer](https://www.pfizer.com/). I am interested in biomedical imaging, machine learning, and drug R&D.
 
 I received a BSc from Nankai University, an MSc from Georgia Institute of Technology, and a PhD from Washington University in St. Louis (Advisor: [Joseph JH Ackerman](https://www.mir.wustl.edu/employees/joseph-ackerman/)). My PhD work focused on cancer imaging:
