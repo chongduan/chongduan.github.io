@@ -1,1 +1,1 @@
-A Github Pages personal websites.
+A Github Pages personal website.
