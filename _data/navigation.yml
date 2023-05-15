@@ -3,8 +3,8 @@ main:
 #  - title: "Publications"
 #    url: /publications/
 
-  - title: "Publications"
-    url: /files/publications_list.md
+#  - title: "Publications"
+#    url: /files/publications_list.md
 
   - title: "Talks"
     url: /talks/
