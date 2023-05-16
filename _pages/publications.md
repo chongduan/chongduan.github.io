@@ -6,7 +6,7 @@ sidebar: true
 ---
 **Fully Automated Mouse Echocardiography Analysis Using Deep Convolutional Neural Networks**  
 **Chong Duan**, Mary Kate Montgomery, Xian Chen, Soumya Ullas, John Stansfield, Kevin McElhanon, Dinesh Hirenallur-Shanthappa
-_American Journal of Physiology-Heart and Circulatory Physiology [[Link](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022)]_  
+_American Journal of Physiology-Heart and Circulatory Physiology 323.4 (2022): H628-H639. [[Link](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022)]_  
 ![Echo-Analysis](./images/echo-analysis.png)  
 <br />
 <br />

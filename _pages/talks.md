@@ -1,10 +1,10 @@
 ---
 permalink: /talks
-title: #
+#title:
 author_profile: true
 sidebar: true
 ---
-## Talks
+## Invited talks
 **Joint Statistical Meetings (JSM) 2022** - "Initial development of imaging-based diagnostic algorithms using deep learning: analogies and lessons learned from drug development", August 2022 [Invited Paper Session - Using statistical foundation to demonstrate the effectiveness of AI/ML algorithms for clinical utility]
 
 **AWS Industry Meetup for Healthcare and Life Science Customers** - "Developing and Deploying Deep Learning-based Echocardiography Analysis with AWS", March 2022 [Invited Talk]
@@ -23,6 +23,6 @@ sidebar: true
 
 **24th annual meeting of the International Society of Magnetic Resonance in Medicine**, “Can anti-VEGF Antibody Reverse Radiation Necrosis? A Preclinical Investigation”, Singapore, 2016  
 
-## Presentations
+## Poster presentations
 To be updated
 
