@@ -1,10 +1,9 @@
 ---
 permalink: /publications
-title: Publications
+title: #
 author_profile: true
 sidebar: true
 ---
-
 ## Publications
 **Fully Automated Mouse Echocardiography Analysis Using Deep Convolutional Neural Networks**  
 **Chong Duan**, Mary Kate Montgomery, Xian Chen, Soumya Ullas, John Stansfield, Kevin McElhanon, Dinesh Hirenallur-Shanthappa
