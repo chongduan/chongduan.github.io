@@ -1,6 +1,6 @@
 ---
 permalink: /talks
-#title:
+title: #Talks
 author_profile: true
 sidebar: true
 ---
