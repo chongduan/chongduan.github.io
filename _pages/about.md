@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am the Imaging AI Lead in the Digital Sciences & Translational Imaging group within Early Clinical Development at [Pfizer](https://www.pfizer.com/). I am interested in biomedical imaging, machine learning, and drug R&D.
 
-I received a BSc from Nankai University, an MSc from Georgia Institute of Technology, and a PhD from Washington University in St. Louis (Advisor: [Joseph JH Ackerman](https://www.mir.wustl.edu/employees/joseph-ackerman/)). My PhD work focused on cancer imaging:
+I received a BSc in Chemistry from Nankai University, an MSc in Computer Science (specialization in Machine Learning) from Georgia Institute of Technology, and a PhD from Washington University in St. Louis (Advisor: [Joseph JH Ackerman](https://www.mir.wustl.edu/employees/joseph-ackerman/)). My PhD work focused on cancer imaging:
 
 >[MRI in Cancer: Improving Methodology for Measuring Vascular Properties and Assessing Radiation Treatment Effects in Brain](https://doi.org/10.7936/K7SX6CN1)
 
