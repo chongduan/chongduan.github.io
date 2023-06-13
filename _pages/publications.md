@@ -4,41 +4,40 @@ title: #
 author_profile: true
 sidebar: true
 ---
-**Fully Automated Mouse Echocardiography Analysis Using Deep Convolutional Neural Networks**  
-**Chong Duan**, Mary Kate Montgomery, Xian Chen, Soumya Ullas, John Stansfield, Kevin McElhanon, Dinesh Hirenallur-Shanthappa
-_American Journal of Physiology-Heart and Circulatory Physiology 323.4 (2022): H628-H639. [[Link](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022)]_  
-<img src="../images/echo-analysis.png" alt="Echo-Analysis" width="500"/>  
+**[Fully Automated Mouse Echocardiography Analysis Using Deep Convolutional Neural Networks](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022)**  
+**Chong Duan**, Mary Kate Montgomery, Xian Chen, Soumya Ullas, John Stansfield, Kevin McElhanon, Dinesh Hirenallur-Shanthappa  
+_American Journal of Physiology-Heart and Circulatory Physiology 323.4 (2022): H628-H639._
+![Echo_Analysis](../images/echo-analysis.png)  
 <br />
 <br />
 
-**Bridge Segmentation Performance Gap Via Evolving Shape Prior**  
+**[Bridge Segmentation Performance Gap Via Evolving Shape Prior](https://ieeexplore.ieee.org/abstract/document/9204618)**  
 Chaoyu Chen, Xin Yang, Haoran Dou, Ruobing Huang, Xiaoqiong Huang, Xu Wang, **Chong Duan**, Shengli Li, Wufeng Xue, Pheng Ann Heng, Dong Ni  
-_IEEE Access 8 (2020): 173961-173973. [[Link](https://ieeexplore.ieee.org/abstract/document/9204618)]_  
-
-[//]: # (![Bridge_Seg_Model]&#40;../images/IEEE_access_model.gif&#41;  )
+_IEEE Access 8 (2020): 173961-173973._  
+![Bridge_Seg_Model](../images/IEEE_access_model.gif)  
 <br />
 <br />
 
-**Automated Myocardial T2 and Extracellular Volume Quantification in Cardiac MRI Using Transfer Learning–based Myocardium Segmentation**  
+**[Automated Myocardial T2 and Extracellular Volume Quantification in Cardiac MRI Using Transfer Learning–based Myocardium Segmentation](https://pubs.rsna.org/doi/abs/10.1148/ryai.2019190034)**  
 Yanjie Zhu, Ahmed S Fahmy, **Chong Duan**, Shiro Nakamori, Reza Nezafat  
-_Radiology: Artificial Intelligence 2.1 (2020): e190034.[[Link](https://pubs.rsna.org/doi/abs/10.1148/ryai.2019190034)]_  
-![AutoMyo_Model](./images/Radiology_AI_model.png)  
+_Radiology: Artificial Intelligence 2.1 (2020): e190034._  
+![AutoMyo_Model](../images/Radiology_AI_model.png)  
 <br />
 <br />
 
 
-**Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5 T**  
-_**Chong Duan**, Yanjie Zhu, Jihye Jang, Jennifer Rodriguez, Ulf Neisius, Ahmed S. Fahmy, and Reza Nezafat._  
-_Magnetic resonance in medicine 81, no. 5 (2019): 3192-3201. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27636), [Code](https://github.com/chongduan/HYTOM)]_  
-![HYTOM_Ex](./images/HYTOM_example.png)  
+**[Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5 T](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27636)**  
+**Chong Duan**, Yanjie Zhu, Jihye Jang, Jennifer Rodriguez, Ulf Neisius, Ahmed S. Fahmy, Reza Nezafat  
+_Magnetic resonance in medicine 81, no. 5 (2019): 3192-3201._ [[GitHub](https://github.com/chongduan/HYTOM)] 
+![HYTOM_Ex](../images/HYTOM_example.png)  
 <br />
 <br />
 
 
-**Integrated motion correction and dictionary learning for free‐breathing myocardial T1 mapping**  
+**[Integrated motion correction and dictionary learning for free‐breathing myocardial T1 mapping](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27579)**  
 Zhu, Yanjie, Jinkyu Kang, **Chong Duan**, Maryam Nezafat, Ulf Neisius, Jihye Jang, and Reza Nezafat.  
-_Magnetic resonance in medicine 81, no. 4 (2019): 2644-2654. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27579)]_  
-![MoDic_Ex](./images/MoDic_example.png)  
+_Magnetic resonance in medicine 81, no. 4 (2019): 2644-2654._  
+![MoDic_Ex](../images/MoDic_example.png)  
 <br />
 <br />
 
