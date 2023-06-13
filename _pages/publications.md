@@ -7,14 +7,15 @@ sidebar: true
 **Fully Automated Mouse Echocardiography Analysis Using Deep Convolutional Neural Networks**  
 **Chong Duan**, Mary Kate Montgomery, Xian Chen, Soumya Ullas, John Stansfield, Kevin McElhanon, Dinesh Hirenallur-Shanthappa
 _American Journal of Physiology-Heart and Circulatory Physiology 323.4 (2022): H628-H639. [[Link](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022)]_  
-<img src="./images/echo-analysis.png" alt="Echo-Analysis" width="200"/>  
+<img src="../images/echo-analysis.png" alt="Echo-Analysis" width="500"/>  
 <br />
 <br />
 
 **Bridge Segmentation Performance Gap Via Evolving Shape Prior**  
 Chaoyu Chen, Xin Yang, Haoran Dou, Ruobing Huang, Xiaoqiong Huang, Xu Wang, **Chong Duan**, Shengli Li, Wufeng Xue, Pheng Ann Heng, Dong Ni  
 _IEEE Access 8 (2020): 173961-173973. [[Link](https://ieeexplore.ieee.org/abstract/document/9204618)]_  
-![Bridge_Seg_Model](./images/IEEE_access_model.gif)  
+
+[//]: # (![Bridge_Seg_Model]&#40;../images/IEEE_access_model.gif&#41;  )
 <br />
 <br />
 
