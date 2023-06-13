@@ -6,7 +6,7 @@ sidebar: true
 ---
 **Clinical integration and validation of an AI-based radiomic platform for predicting PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC**  
 Chiharu Sako, Lester Boeh, Chong Duan, Kevin Maresca, Subha Madhavan, Ray D. Page, Allen Ardestani, Ravi B. Parikh, George R. Simon, Hugo J.W.L. Aerts, Petr Jordan  
-_American Medical Informatics Association (AMIA) - Clinical Informatics Conference, Chicago, IL, 2023_ [Poster Presentation](./files/2023_AMIA_OncAI_Pfizer.pdf) 
+_American Medical Informatics Association (AMIA) - Clinical Informatics Conference, Chicago, IL, 2023_ [[Poster Presentation](./files/2023_AMIA_OncAI_Pfizer.pdf)]
 
 **Initial development of imaging-based diagnostic algorithms using deep learning: analogies and lessons learned from drug development**  
 Chong Duan  
