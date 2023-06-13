@@ -110,7 +110,7 @@ _PLoS One 11, no. 2 (2016): e0148613._
 **[Renal DCE-MRI model selection using bayesian probability theory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6024409/)**  
 Beeman, Scott C., Patrick Osei-Owusu, Chong Duan, John Engelbach, G. Larry Bretthorst, Joseph JH Ackerman, Kendall J. Blumer, Joel R. Garbow.  
 _Tomography 1, no. 1 (2015): 61._  
-![Renal_DCE](../images/Renal_DCE.jpeg)  
+![Renal_DCE](../images/Renal_DCE.png)  
 <br />
 <br />
 
