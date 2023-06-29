@@ -10,7 +10,7 @@ _American Medical Informatics Association (AMIA) - Clinical Informatics Conferen
 
 **[Initial development of imaging-based diagnostic algorithms using deep learning: analogies and lessons learned from drug development](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320354)**  
 Chong Duan  
-_Joint Statistical Meetings (JSM), Washington D.C., 2022_ [Invited Paper]
+_Joint Statistical Meetings (JSM), Washington D.C., 2022_ [Invited Talk]
 
 **Developing and Deploying Deep Learning-based Echocardiography Analysis with AWS**  
 Chong Duan  
