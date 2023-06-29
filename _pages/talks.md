@@ -8,7 +8,7 @@ sidebar: true
 Chiharu Sako, Lester Boeh, Chong Duan, Kevin Maresca, Subha Madhavan, Ray D. Page, Allen Ardestani, Ravi B. Parikh, George R. Simon, Hugo J.W.L. Aerts, Petr Jordan  
 _American Medical Informatics Association (AMIA) - Clinical Informatics Conference, Chicago, IL, 2023_ [Poster Presentation]
 
-**Initial development of imaging-based diagnostic algorithms using deep learning: analogies and lessons learned from drug development**  
+**[Initial development of imaging-based diagnostic algorithms using deep learning: analogies and lessons learned from drug development](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320354)**  
 Chong Duan  
 _Joint Statistical Meetings (JSM), Washington D.C., 2022_ [Invited Paper]
 
