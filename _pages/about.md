@@ -24,7 +24,8 @@ I currently lead the development and deployment of novel ML/AL-based solutions t
   - [GitHub](https://github.com/pfizer-opensource/mouse-echo-neural-net)
   - [AWS Blog](https://aws.amazon.com/blogs/industries/pfizers-echocardiography-analysis-framework-reduces-time-by-92-using-aws/)
 
-- Using AI to assess solid tumor treatment response in clinical trials and unlock novel endpoints for early decision making that can accelerate drug discovery and development.
+- Using AI to assess solid tumor treatment response in clinical trials and unlock novel endpoints for early decision making that can accelerate drug discovery and development, in collaboration with [Vysioneer](https://www.vysioneer.com/).
   - [Paper](https://doi.org/10.1016/j.annonc.2023.09.2452)
+  - [DSA PR Release](https://www.prnewswire.com/news-releases/vysioneer-announces-data-sharing-agreement-with-pfizer-to-augment-oncology-clinical-trials-with-artificial-intelligence-301751273.html)
 
 I am also responsible for the development of AI and Data strategy for clinical imaging across the organization.

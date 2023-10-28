@@ -7,13 +7,12 @@ sidebar: true
 **AI-powered intracranial tumor response predicts systemic progression with high concordance in endpoint evaluation in the phase III CROWN study**  
 S-L. Lu, C. Duan, Y-C. Chang, C-H. Liang, P-L. Chiang, V. Lin, Y-S. Yang, A. Schayowitz, P. Selaru, K.D. Wilner, J-T. Lu   
 _European Society for Medical Oncology (ESMO) Congress, Madrid, Spain, 2023_ [ePoster Presentation]
-
-
+  
 **Clinical integration and validation of an AI-based radiomic platform for predicting PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC**  
 Chiharu Sako, Lester Boeh, Chong Duan, Kevin Maresca, Subha Madhavan, Ray D. Page, Allen Ardestani, Ravi B. Parikh, George R. Simon, Hugo J.W.L. Aerts, Petr Jordan  
 _American Medical Informatics Association (AMIA) - Clinical Informatics Conference, Chicago, IL, 2023_ [Poster Presentation]
 
-**[Initial development of imaging-based diagnostic algorithms using deep learning: analogies and lessons learned from drug development](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320354)**  
+**Initial development of imaging-based diagnostic algorithms using deep learning: analogies and lessons learned from drug development**  
 Chong Duan  
 _Joint Statistical Meetings (JSM), Washington D.C., 2022_ [Invited Talk]
 
