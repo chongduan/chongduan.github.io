@@ -6,45 +6,66 @@ sidebar: true
 ---
 **AI-powered intracranial tumor response predicts systemic progression with high concordance in endpoint evaluation in the phase III CROWN study**  
 S-L. Lu, C. Duan, Y-C. Chang, C-H. Liang, P-L. Chiang, V. Lin, Y-S. Yang, A. Schayowitz, P. Selaru, K.D. Wilner, J-T. Lu   
-_European Society for Medical Oncology (ESMO) Congress, Madrid, Spain, 2023_ [ePoster Presentation]
-  
+_**European Society for Medical Oncology (ESMO)**, Madrid, Spain, 2023 [Poster]_
+<br />
+<br />
+
 **Clinical integration and validation of an AI-based radiomic platform for predicting PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC**  
 Chiharu Sako, Lester Boeh, Chong Duan, Kevin Maresca, Subha Madhavan, Ray D. Page, Allen Ardestani, Ravi B. Parikh, George R. Simon, Hugo J.W.L. Aerts, Petr Jordan  
-_American Medical Informatics Association (AMIA) - Clinical Informatics Conference, Chicago, IL, 2023_ [Poster Presentation]
+_**American Medical Informatics Association (AMIA)** - Clinical Informatics Conference, Chicago, IL, 2023 [Poster]_
+<br />
+<br />
 
 **Initial development of imaging-based diagnostic algorithms using deep learning: analogies and lessons learned from drug development**  
 Chong Duan  
-_Joint Statistical Meetings (JSM), Washington D.C., 2022_ [Invited Talk]
+_**Joint Statistical Meetings (JSM)**, Washington D.C., USA, 2022 [Invited Talk]_
+<br />
+<br />
 
 **Developing and Deploying Deep Learning-based Echocardiography Analysis with AWS**  
 Chong Duan  
-_AWS Industry Meetup for Healthcare and Life Science Customers, 2022_ [Invited Talk]
+_**AWS Industry Meetup for Healthcare and Life Science Customers**, 2022 [Invited Talk]_
+<br />
+<br />
 
 **Clinical Image Management and Exploration at Pfizer**  
 Chong Duan, Kris Kokomoor  
-_Summit For Clinical Ops Executives (SCOPE), 2021_ [Invited Talk]
+_**Summit For Clinical Ops Executives (SCOPE)**, 2021 [Invited Talk]_
+<br />
+<br />
 
 **CMR in Kidney Failure: Non-Contrast Imaging**  
 Chong Duan  
-_International Society of Magnetic Resonance in Medicine (ISMRM), Montreal, Québec, Canada, 2019_ [Invited Session Moderator]  
+_**International Society of Magnetic Resonance in Medicine (ISMRM)**, Montreal, Québec, Canada, 2019 [Invited Session Moderator]_  
+<br />
+<br />
 
 **Non-contrast Myocardial Viability Assessment Using a Hybrid Native T1 and Magnetization Transfer Imaging Sequence**  
 Chong Duan  
-_Society for Cardiovascular Magnetic Resonance (SCMR), Bellevue, Washington, 2019_ [Oral Presentation]
+_**Society for Cardiovascular Magnetic Resonance (SCMR)**, Bellevue, Washington, 2019 [Oral Presentation]_
+<br />
+<br />
 
 **MR Techniques and Methods: Non-contrast CMR and New Contrast Mechanisms**  
 Chong Duan  
-_Society for Cardiovascular Magnetic Resonance (SCMR), Bellevue, Washington, 2019_ [Invited Session Moderator]  
+_**Society for Cardiovascular Magnetic Resonance (SCMR)**, Bellevue, Washington, 2019 [Invited Session Moderator]_  
+<br />
+<br />
 
 **Probing Structures with Magnetic Resonance from Cardiology to Oncology**  
 Chong Duan  
-_Genentech, South San Francisco, CA, 2018_ [Invited Talk]
+_**Genentech**, South San Francisco, CA, 2018 [Invited Talk]_
+<br />
+<br />
 
 **Irradiated Brain Parenchyma Promotes Virulent Proliferation of Naive Glioma Cells: Mouse Model of Recurrent Glioblastoma**  
 Chong Duan  
-_International Society of Magnetic Resonance in Medicine (ISMRM), Honolulu, Hawaii, 2017_ [Oral Presentation]
+_**International Society of Magnetic Resonance in Medicine (ISMRM)**, Honolulu, Hawaii, 2017 [Oral Presentation]_
+<br />
+<br />
 
 **Can anti-VEGF Antibody Reverse Radiation Necrosis? A Preclinical Investigation**  
 Chong Duan  
-_International Society of Magnetic Resonance in Medicine (ISMRM), Singapore, 2016_ [Oral Presentation]  
-
+_**International Society of Magnetic Resonance in Medicine (ISMRM)**, Singapore, 2016 [Oral Presentation]_  
+<br />
+<br />
