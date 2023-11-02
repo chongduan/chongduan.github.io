@@ -1,8 +1,8 @@
 ---
 permalink: /talks
 title: 
-author_profile: false
-sidebar: false
+author_profile: true
+sidebar: true
 ---
 **AI-powered intracranial tumor response predicts systemic progression with high concordance in endpoint evaluation in the phase III CROWN study**  
 S-L. Lu, C. Duan, Y-C. Chang, C-H. Liang, P-L. Chiang, V. Lin, Y-S. Yang, A. Schayowitz, P. Selaru, K.D. Wilner, J-T. Lu   
