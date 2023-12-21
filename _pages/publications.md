@@ -4,11 +4,21 @@ title: #
 author_profile: true
 sidebar: true
 ---
+**[Applying deep learning to segmentation of murine lung tumors in pre-clinical micro-computed tomography](https://authors.elsevier.com/sd/article/S1936-5233(23)00219-X)**  
+Mary Katherine Montgomery, **Chong Duan**, Lisa Manzuk, Stephanie Chang, Aiyana Cubias, Sonja Brun, Anand Giddabasappa, Ziyue Karen Jiang  
+_Translational Oncology, 40, 2024, 101833_
+![lung tumors](../images/lung-cancer_trans-onc.jpg)
+<br />
+<br />
+
+
 **[AI-powered intracranial tumor response predicts systemic progression with high concordance in endpoint evaluation in the phase III CROWN study](https://doi.org/10.1016/j.annonc.2023.09.2452)**  
 S-L. Lu, **C. Duan**, Y-C. Chang, C-H. Liang, P-L. Chiang, V. Lin, Y-S. Yang, A. Schayowitz, P. Selaru, K.D. Wilner, J-T. Lu  
 _Annals of Oncology, 34, 2023, p.S811_
+![Vysioneer ESMO](../images/Vysioneer-ESMO.png)
 <br />
 <br />
+
 
 **[Fully Automated Mouse Echocardiography Analysis Using Deep Convolutional Neural Networks](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022)**  
 **Chong Duan**, Mary Kate Montgomery, Xian Chen, Soumya Ullas, John Stansfield, Kevin McElhanon, Dinesh Hirenallur-Shanthappa  
@@ -16,6 +26,7 @@ _American Journal of Physiology-Heart and Circulatory Physiology 323.4 (2022): H
 ![Echo_Analysis](../images/echo-analysis.png)  
 <br />
 <br />
+
 
 **[Bridge Segmentation Performance Gap Via Evolving Shape Prior](https://ieeexplore.ieee.org/abstract/document/9204618)**  
 Chaoyu Chen, Xin Yang, Haoran Dou, Ruobing Huang, Xiaoqiong Huang, Xu Wang, **Chong Duan**, Shengli Li, Wufeng Xue, Pheng Ann Heng, Dong Ni  
