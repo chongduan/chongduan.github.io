@@ -30,7 +30,7 @@ _**Summit For Clinical Ops Executives (SCOPE)**, 2021_
 
 **CMR in Kidney Failure: Non-Contrast Imaging**  
 Chong Duan  
-_**International Society of Magnetic Resonance in Medicine (ISMRM)**, Montreal, Québec, Canada, 2019 [Session Moderator]_  
+_**International Society of Magnetic Resonance in Medicine (ISMRM)**, Montreal, Québec, Canada, 2019 [Session Moderator]_
 <br />
 <br />
 
@@ -42,7 +42,7 @@ _**Society for Cardiovascular Magnetic Resonance (SCMR)**, Bellevue, Washington,
 
 **MR Techniques and Methods: Non-contrast CMR and New Contrast Mechanisms**  
 Chong Duan  
-_**Society for Cardiovascular Magnetic Resonance (SCMR)**, Bellevue, Washington, 2019 [Session Moderator]_  
+_**Society for Cardiovascular Magnetic Resonance (SCMR)**, Bellevue, Washington, 2019 [Session Moderator]_ 
 <br />
 <br />
 
@@ -54,6 +54,6 @@ _**International Society of Magnetic Resonance in Medicine (ISMRM)**, Honolulu, 
 
 **Can anti-VEGF Antibody Reverse Radiation Necrosis? A Preclinical Investigation**  
 Chong Duan  
-_**International Society of Magnetic Resonance in Medicine (ISMRM)**, Singapore, 2016_  
+_**International Society of Magnetic Resonance in Medicine (ISMRM)**, Singapore, 2016_
 <br />
 <br />

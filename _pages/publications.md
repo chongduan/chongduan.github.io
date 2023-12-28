@@ -1,6 +1,6 @@
 ---
 permalink: /publications
-title: #
+title:
 author_profile: true
 sidebar: true
 ---
@@ -11,7 +11,6 @@ _Translational Oncology, 40, 2024, 101833_
 <br />
 <br />
 
-
 **[AI-powered intracranial tumor response predicts systemic progression with high concordance in endpoint evaluation in the phase III CROWN study](https://doi.org/10.1016/j.annonc.2023.09.2452)**  
 S-L. Lu, **C. Duan**, Y-C. Chang, C-H. Liang, P-L. Chiang, V. Lin, Y-S. Yang, A. Schayowitz, P. Selaru, K.D. Wilner, J-T. Lu  
 _Annals of Oncology, 34, 2023, p.S811_
@@ -19,14 +18,12 @@ _Annals of Oncology, 34, 2023, p.S811_
 <br />
 <br />
 
-
 **[Fully Automated Mouse Echocardiography Analysis Using Deep Convolutional Neural Networks](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022)**  
 **Chong Duan**, Mary Kate Montgomery, Xian Chen, Soumya Ullas, John Stansfield, Kevin McElhanon, Dinesh Hirenallur-Shanthappa  
 _American Journal of Physiology-Heart and Circulatory Physiology 323.4 (2022): H628-H639._
 ![Echo_Analysis](../images/echo-analysis.png)  
 <br />
 <br />
-
 
 **[Bridge Segmentation Performance Gap Via Evolving Shape Prior](https://ieeexplore.ieee.org/abstract/document/9204618)**  
 Chaoyu Chen, Xin Yang, Haoran Dou, Ruobing Huang, Xiaoqiong Huang, Xu Wang, **Chong Duan**, Shengli Li, Wufeng Xue, Pheng Ann Heng, Dong Ni  
