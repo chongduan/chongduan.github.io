@@ -26,6 +26,8 @@ I currently lead the development and deployment of novel ML/AL-based solutions t
 
 - Using AI to assess solid tumor treatment response in clinical trials and unlock novel endpoints for early decision making that can accelerate drug discovery and development, in collaboration with [Vysioneer](https://www.vysioneer.com/).
   - [Paper](https://doi.org/10.1016/j.annonc.2023.09.2452)
-  - [DSA PR Release](https://www.prnewswire.com/news-releases/vysioneer-announces-data-sharing-agreement-with-pfizer-to-augment-oncology-clinical-trials-with-artificial-intelligence-301751273.html)
+  - [DSA PR Release](https://www.prnewswire.com/news-releases/vysioneer-announces-data-sharing-agreement-with-pfizer-to-augment-oncology-clinical-trials-with-artificial-intelligence-301751273.html)  
+
+- Representing Pfizer in the [FNIH Mucosal Healing in Ulcerative Colitis](https://fnih.org/our-programs/biomarkers-consortium-mucosal-healing-in-uc-definition-treatment-target-and-clinical-endpoints/) consortium, a public-private collaborative effort to define the best practice for measuring mucosal healing, including a machine learning method for scoring of mucosal healing that can be used in clinical trials, regulatory approvals, and clinical practice.  
 
 I am also responsible for the development of AI and Data strategy for clinical imaging across the organization.
