@@ -31,14 +31,12 @@ _Radiology: Artificial Intelligence 2.1 (2020): e190034._
 <br />
 <br />
 
-
 **[Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5 T](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27636)**  
 **Chong Duan**, Yanjie Zhu, Jihye Jang, Jennifer Rodriguez, Ulf Neisius, Ahmed S. Fahmy, Reza Nezafat  
 _Magnetic resonance in medicine 81, no. 5 (2019): 3192-3201._ [[GitHub](https://github.com/chongduan/HYTOM)]  
 ![HYTOM_Ex](../images/HYTOM_example.png)  
 <br />
 <br />
-
 
 **[Integrated motion correction and dictionary learning for free‐breathing myocardial T1 mapping](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27579)**  
 Zhu, Yanjie, Jinkyu Kang, **Chong Duan**, Maryam Nezafat, Ulf Neisius, Jihye Jang, Reza Nezafat    
@@ -47,14 +45,12 @@ _Magnetic resonance in medicine 81, no. 4 (2019): 2644-2654._
 <br />
 <br />
 
-
 **[Cardiovascular magnetic resonance feature tracking strain analysis for discrimination between hypertensive heart disease and hypertrophic cardiomyopathy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221061)**  
 Neisius, Ulf, Lana Myerson, Ahmed S. Fahmy, Shiro Nakamori, Hossam El-Rewaidy, Gargi Joshi, **Chong Duan**, Warren J. Manning, Reza Nezafat    
 _PloS one 14, no. 8 (2019)._  
 ![CMR_Strain](../images/PLOS_CMR_Strain.png)  
 <br />
 <br />
-
 
 **[Late effects of radiation prime the brain microenvironment for accelerated tumor growth](https://www.redjournal.org/article/S0360-3016(18)33639-3/fulltext)**  
 **Duan, Chong**, Ruimeng Yang, Liya Yuan, John A. Engelbach, Christina I. Tsien, Keith M. Rich, Sonika M. Dahiya, Tanner M. Johanns, Joseph JH Ackerman, Joel R. Garbow  
@@ -76,7 +72,6 @@ _Molecular Imaging and Biology 20, no. 1 (2018): 150-159._
 ![cLAIF](../images/cLAIF.png)  
 <br />
 <br />
-
 
 **[Bayesian Modeling of NMR Data: Quantifying Longitudinal Relaxation in Vivo, and in Vitro with a Tissue-Water-Relaxation Mimic (Crosslinked Bovine Serum Albumin)](https://link.springer.com/article/10.1007%2Fs00723-017-0964-z)**  
 Meinerz, Kelsey, Scott C. Beeman, **Chong Duan**, G. Larry Bretthorst, Joel R. Garbow, Joseph JH Ackerman  
