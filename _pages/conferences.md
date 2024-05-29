@@ -5,7 +5,7 @@ author_profile: true
 sidebar: true
 ---
 **Machine Learning Can Distinguish Hypertrophic Cardiomyopathy, Cardiac Light Chain and Transthyretin Amyloidosis Using Cardiac Magnetic Resonance Imaging Data and Standard Clinical Information**  
-Weberling, L., Ochs, A., Benovoy, M., dem Siepen, F.A., Salatzki, J., Giannitsis, E., Duan, C., Maresca, K., Zhang, Y., Moller, J., Friedrich, S., Schonland, S., Meder, B., Friedrich, M., Frey, N., Andre, F. 
+Weberling, L., Ochs, A., Benovoy, M., dem Siepen, F.A., Salatzki, J., Giannitsis, E., Duan, C., Maresca, K., Zhang, Y., Moller, J., Friedrich, S., Schonland, S., Meder, B., Friedrich, M., Frey, N., Andre, F.     
 _**Society for Cardiovascular Magnetic Resonance (SCMR)**, London, UK, 2024_
 <br />
 <br />
