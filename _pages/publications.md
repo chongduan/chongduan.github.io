@@ -4,6 +4,13 @@ title:
 author_profile: true
 sidebar: true
 ---
+**[Machine Learning Can Distinguish Hypertrophic Cardiomyopathy, Cardiac Light Chain and Transthyretin Amyloidosis Using Cardiac Magnetic Resonance Imaging Data and Standard Clinical Information](https://doi.org/10.1016/j.jocmr.2024.100166)**  
+Weberling, L., Ochs, A., Benovoy, M., dem Siepen, F.A., Salatzki, J., Giannitsis, E., **Duan, C.**, Maresca, K., Zhang, Y., Moller, J., Friedrich, S., Schonland, S., Meder, B., Friedrich, M., Frey, N., Andre, F.  
+_Journal of Cardiovascular Magnetic Resonance, Volume 26, Supplement 1, 2024_
+![ATTR-CM](../images/ATTR-CM.jpg)
+<br />
+<br />
+
 **[Applying deep learning to segmentation of murine lung tumors in pre-clinical micro-computed tomography](https://authors.elsevier.com/sd/article/S1936-5233(23)00219-X)**  
 Mary Katherine Montgomery, **Chong Duan**, Lisa Manzuk, Stephanie Chang, Aiyana Cubias, Sonja Brun, Anand Giddabasappa, Ziyue Karen Jiang  
 _Translational Oncology, 40, 2024, 101833_
