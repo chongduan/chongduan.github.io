@@ -4,6 +4,13 @@ title:
 author_profile: true
 sidebar: true
 ---
+**Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC**  
+Chiharu Sako, Chong Duan, Kevin Maresca, Sean Kent, Hugo Aerts, Ravi Bharat Parikh, George R. Simon, Petr Jordan     
+_**American Society of Clinical Oncology (ASCO)**, Chicago, IL, 2024_
+<br />
+<br />
+
+
 **Machine Learning Can Distinguish Hypertrophic Cardiomyopathy, Cardiac Light Chain and Transthyretin Amyloidosis Using Cardiac Magnetic Resonance Imaging Data and Standard Clinical Information**  
 Weberling, L., Ochs, A., Benovoy, M., dem Siepen, F.A., Salatzki, J., Giannitsis, E., Duan, C., Maresca, K., Zhang, Y., Moller, J., Friedrich, S., Schonland, S., Meder, B., Friedrich, M., Frey, N., Andre, F.     
 _**Society for Cardiovascular Magnetic Resonance (SCMR)**, London, UK, 2024_
