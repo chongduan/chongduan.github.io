@@ -24,10 +24,14 @@ I currently lead the development and deployment of novel ML/AL-based solutions t
   - [GitHub](https://github.com/pfizer-opensource/mouse-echo-neural-net)
   - [AWS Blog](https://aws.amazon.com/blogs/industries/pfizers-echocardiography-analysis-framework-reduces-time-by-92-using-aws/)
 
-- Using AI to assess solid tumor treatment response in clinical trials and unlock novel endpoints for early decision making that can accelerate drug discovery and development, in collaboration with [Vysioneer](https://www.vysioneer.com/).
-  - [Paper](https://doi.org/10.1016/j.annonc.2023.09.2452)
-  - [DSA PR Release](https://www.prnewswire.com/news-releases/vysioneer-announces-data-sharing-agreement-with-pfizer-to-augment-oncology-clinical-trials-with-artificial-intelligence-301751273.html)  
+- Using AI to assess solid tumor treatment response in clinical trials and unlock novel endpoints for early decision making that can accelerate drug discovery and development, in collaboration with [Vysioneer](https://www.vysioneer.com/)  
+  - [ESMO 2023](https://doi.org/10.1016/j.annonc.2023.09.2452)
+  - [Press Release](https://www.prnewswire.com/news-releases/vysioneer-announces-data-sharing-agreement-with-pfizer-to-augment-oncology-clinical-trials-with-artificial-intelligence-301751273.html)  
 
+- Predicting PD-(L)1 response using a deep learning biomarker with routine baseline CT scans, in collaboration with [Onc.AI](https://onc.ai/)  
+  - [ASCO 2024](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.102)  
+  - [Press Release](https://www.businesswire.com/news/home/20240530243565/en/Onc.AI-to-Present-Collaboration-Results-Demonstrating-Immunotherapy-Response-Prediction-Using-a-Radiomic-Signature-in-Late-Stage-Lung-Cancer)  
+ 
 - Representing Pfizer in the [FNIH Mucosal Healing in Ulcerative Colitis](https://fnih.org/our-programs/biomarkers-consortium-mucosal-healing-in-uc-definition-treatment-target-and-clinical-endpoints/) consortium, a public-private collaborative effort to define the best practice for measuring mucosal healing, including a machine learning method for scoring of mucosal healing that can be used in clinical trials, regulatory approvals, and clinical practice.  
 
 I am also responsible for the development of AI and Data strategy for clinical imaging across the organization.
