@@ -17,7 +17,7 @@ During my PhD, I did an internship at [Schlumberger](https://www.slb.com/), wher
 
 Following PhD, I did my postdoctoral research on cardiovascular imaging at [Beth Israel Deaconess Medical Center](https://www.bidmc.org/) and [Harvard Medical School](https://hms.harvard.edu/). Before I joined Pfizer in 2019, I had a stint at [Invicro](https://invicro.com/), working as a Study Director to support imaging programs for pharma/biotech clients.
 
-I currently lead the development and deployment of novel ML/AL-based solutions to support drug R&D programs across therapeutic areas. Some recent projects include:
+I currently lead the development, validation, and deployment of novel AI-based solutions to support drug development programs across therapeutic areas at Pfizer. Some recent projects are:
 
 - A fully automated AI system for analyzing echocardiography videos. This project won Pfizer's Breakthrough Science & Innovation award in 2021, the highest honor that can be bestowed to an R&D colleague.
   - [Paper](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00208.2022)
@@ -32,6 +32,8 @@ I currently lead the development and deployment of novel ML/AL-based solutions t
   - [ASCO 2024](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.102)  
   - [Press Release](https://www.businesswire.com/news/home/20240530243565/en/Onc.AI-to-Present-Collaboration-Results-Demonstrating-Immunotherapy-Response-Prediction-Using-a-Radiomic-Signature-in-Late-Stage-Lung-Cancer)  
  
-- Representing Pfizer in the [FNIH Mucosal Healing in Ulcerative Colitis](https://fnih.org/our-programs/biomarkers-consortium-mucosal-healing-in-uc-definition-treatment-target-and-clinical-endpoints/) consortium, a public-private collaborative effort to define the best practice for measuring mucosal healing, including a machine learning method for scoring of mucosal healing that can be used in clinical trials, regulatory approvals, and clinical practice.  
+I am also representing Pfizer in multiple public-private parternships/consortiums, including:
 
-I am also responsible for the development of AI and Data strategy for clinical imaging across the organization.
+  - [FNIH Mucosal Healing in Ulcerative Colitis](https://fnih.org/our-programs/biomarkers-consortium-mucosal-healing-in-uc-definition-treatment-target-and-clinical-endpoints/), a public-private collaborative effort to define the best practice for measuring mucosal healing, including a machine learning method for scoring of mucosal healing that can be used in clinical trials, regulatory approvals, and clinical practice.  
+  - [IHI SYNTHIA](https://www.ihi-synthia.eu/), a public-private partnership funded by the Innovative Health Initiative (IHI) to revolutionize the field of personalized medicine by harnessing the power of synthetic data.
+
