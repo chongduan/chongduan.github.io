@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Director and AI Lead in the Digital Sciences & Translational Imaging group within [Pfizer](https://www.pfizer.com/) R&D. I am interested in medical imaging, machine learning, and drug R&D.
 
-I received a Bachelor's degree in Chemistry from [Nankai University](https://en.nankai.edu.cn/), a Master's degree in Computer Science (specialization in Machine Learning) from [Georgia Institute of Technology](https://www.gatech.edu/), and a PhD from [Washington University in St. Louis](https://wustl.edu/). My PhD thesis focused on cancer imaging:
+I received a Bachelor's degree in Chemistry from [Nankai University](https://en.nankai.edu.cn/), a Master's degree in Computer Science from [Georgia Institute of Technology](https://www.gatech.edu/), and a PhD from [Washington University in St. Louis](https://wustl.edu/). My PhD thesis focused on cancer imaging:
 
 >[MRI in Cancer: Improving Methodology for Measuring Vascular Properties and Assessing Radiation Treatment Effects in Brain](https://doi.org/10.7936/K7SX6CN1)
 
@@ -36,4 +36,3 @@ I am also representing Pfizer in multiple public-private parternships/consortium
 
   - [FNIH Mucosal Healing in Ulcerative Colitis](https://fnih.org/our-programs/biomarkers-consortium-mucosal-healing-in-uc-definition-treatment-target-and-clinical-endpoints/), a public-private collaborative effort to define the best practice for measuring mucosal healing, including a machine learning method for scoring of mucosal healing that can be used in clinical trials, regulatory approvals, and clinical practice.  
   - [IHI SYNTHIA](https://www.ihi-synthia.eu/), a public-private partnership funded by the Innovative Health Initiative (IHI) to revolutionize the field of personalized medicine by harnessing the power of synthetic data.
-
