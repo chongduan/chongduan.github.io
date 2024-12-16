@@ -4,6 +4,13 @@ title:
 author_profile: true
 sidebar: true
 ---
+**[Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC](https://ascopubs.org/doi/10.1200/CCI.24.00133)**  
+Chiharu Sako, **Chong Duan**, Kevin Maresca, Sean Kent, Taly Gilat Schmidt, Hugo JWL Aerts, Ravi B. Parikh, George R. Simon, and Petr Jordan  
+_JCO Clinical Cancer Informatics, 8, e2400133_
+![JCO CCI](../images/JCO_CCI_2024.jpg)
+<br />
+<br />
+
 **[Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC](https://doi.org/10.1200/JCO.2024.42.16_suppl.102)**  
 Chiharu Sako, **Chong Duan**, Kevin Maresca, Sean Kent, Hugo Aerts, Ravi Bharat Parikh, George R. Simon, Petr Jordan   
 _Journal of Clinical Oncology 2024 42:16_suppl, 102-102_

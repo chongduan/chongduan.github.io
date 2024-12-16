@@ -30,6 +30,7 @@ I currently lead the development, validation, and deployment of novel AI-based s
 
 - Predicting PD-(L)1 response using a deep learning biomarker with routine baseline CT scans, in collaboration with [Onc.AI](https://onc.ai/)  
   - [ASCO 2024](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.102)  
+  - [Paper](https://ascopubs.org/doi/10.1200/CCI.24.00133)
   - [Press Release](https://www.businesswire.com/news/home/20240530243565/en/Onc.AI-to-Present-Collaboration-Results-Demonstrating-Immunotherapy-Response-Prediction-Using-a-Radiomic-Signature-in-Late-Stage-Lung-Cancer)  
  
 I am also representing Pfizer in multiple public-private parternships/consortiums, including:
