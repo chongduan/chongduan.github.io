@@ -10,19 +10,19 @@ _**Digestive Disease Week (DDW)**, San Diego, CA, 2025_
 <br />
 <br />
 
-**Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC**  
+**[Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.102)**  
 Chiharu Sako, Chong Duan, Kevin Maresca, Sean Kent, Hugo Aerts, Ravi Bharat Parikh, George R. Simon, Petr Jordan     
 _**American Society of Clinical Oncology (ASCO)**, Chicago, IL, 2024_
 <br />
 <br />
 
-**Machine Learning Can Distinguish Hypertrophic Cardiomyopathy, Cardiac Light Chain and Transthyretin Amyloidosis Using Cardiac Magnetic Resonance Imaging Data and Standard Clinical Information**  
+**[Machine Learning Can Distinguish Hypertrophic Cardiomyopathy, Cardiac Light Chain and Transthyretin Amyloidosis Using Cardiac Magnetic Resonance Imaging Data and Standard Clinical Information](https://doi.org/10.1016/j.jocmr.2024.100166)**  
 Weberling, L., Ochs, A., Benovoy, M., dem Siepen, F.A., Salatzki, J., Giannitsis, E., Duan, C., Maresca, K., Zhang, Y., Moller, J., Friedrich, S., Schonland, S., Meder, B., Friedrich, M., Frey, N., Andre, F.     
 _**Society for Cardiovascular Magnetic Resonance (SCMR)**, London, UK, 2024_
 <br />
 <br />
 
-**AI-powered intracranial tumor response predicts systemic progression with high concordance in endpoint evaluation in the phase III CROWN study**  
+**[AI-powered intracranial tumor response predicts systemic progression with high concordance in endpoint evaluation in the phase III CROWN study](https://doi.org/10.1016/j.annonc.2023.09.2452)**  
 S-L. Lu, C. Duan, Y-C. Chang, C-H. Liang, P-L. Chiang, V. Lin, Y-S. Yang, A. Schayowitz, P. Selaru, K.D. Wilner, J-T. Lu   
 _**European Society for Medical Oncology (ESMO)**, Madrid, Spain, 2023_
 <br />

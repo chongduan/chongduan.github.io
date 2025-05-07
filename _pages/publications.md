@@ -6,35 +6,15 @@ sidebar: true
 ---
 **[Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC](https://ascopubs.org/doi/10.1200/CCI.24.00133)**  
 Chiharu Sako, **Chong Duan**, Kevin Maresca, Sean Kent, Taly Gilat Schmidt, Hugo JWL Aerts, Ravi B. Parikh, George R. Simon, and Petr Jordan  
-_JCO Clinical Cancer Informatics, 8, e2400133_
+_JCO Clinical Cancer Informatics 8 (2024): e2400133_
 ![JCO CCI](../images/JCO_CCI_2024.jpg)
-<br />
-<br />
-
-**[Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC](https://doi.org/10.1200/JCO.2024.42.16_suppl.102)**  
-Chiharu Sako, **Chong Duan**, Kevin Maresca, Sean Kent, Hugo Aerts, Ravi Bharat Parikh, George R. Simon, Petr Jordan   
-_Journal of Clinical Oncology 2024 42:16_suppl, 102-102_
-<br />
-<br />
-
-**[Machine Learning Can Distinguish Hypertrophic Cardiomyopathy, Cardiac Light Chain and Transthyretin Amyloidosis Using Cardiac Magnetic Resonance Imaging Data and Standard Clinical Information](https://doi.org/10.1016/j.jocmr.2024.100166)**  
-Weberling, L., Ochs, A., Benovoy, M., dem Siepen, F.A., Salatzki, J., Giannitsis, E., **Duan, C.**, Maresca, K., Zhang, Y., Moller, J., Friedrich, S., Schonland, S., Meder, B., Friedrich, M., Frey, N., Andre, F.  
-_Journal of Cardiovascular Magnetic Resonance, Volume 26, Supplement 1, 2024_
-![ATTR-CM](../images/ATTR-CM.jpg)
 <br />
 <br />
 
 **[Applying deep learning to segmentation of murine lung tumors in pre-clinical micro-computed tomography](https://authors.elsevier.com/sd/article/S1936-5233(23)00219-X)**  
 Mary Katherine Montgomery, **Chong Duan**, Lisa Manzuk, Stephanie Chang, Aiyana Cubias, Sonja Brun, Anand Giddabasappa, Ziyue Karen Jiang  
-_Translational Oncology, 40, 2024, 101833_
+_Translational Oncology 40 (2024): 101833_
 ![lung tumors](../images/lung-cancer_trans-onc.jpg)
-<br />
-<br />
-
-**[AI-powered intracranial tumor response predicts systemic progression with high concordance in endpoint evaluation in the phase III CROWN study](https://doi.org/10.1016/j.annonc.2023.09.2452)**  
-S-L. Lu, **C. Duan**, Y-C. Chang, C-H. Liang, P-L. Chiang, V. Lin, Y-S. Yang, A. Schayowitz, P. Selaru, K.D. Wilner, J-T. Lu  
-_Annals of Oncology, 34, 2023, p.S811_
-![Vysioneer ESMO](../images/Vysioneer-ESMO.png)
 <br />
 <br />
 
