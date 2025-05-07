@@ -4,12 +4,17 @@ title:
 author_profile: true
 sidebar: true
 ---
+**[Consortium-driven development of pathology foundation model-based approaches for automated scoring of histopathology in ulcerative colitis](https://eposters.ddw.org/ddw/2025/ddw-2025/4156056/christina.jayson.consortium-driven.development.of.pathology.foundation.html?f=listing%3D0%2Abrowseby%3D8%2Asortby%3D1%2Asearch%3Dconsortium)**  
+TA Altepeter, S Bhattacharya, J Brosnan-Cashman, L Clinton, W Crandall, C Duan, JD Gale, M Griffin, V Gupta, H Haarmann, N Harpaz, A Hooper, J Horowitz, A Hurtado-Lorenzo, BE Hussaini, V Jairath, C Jayson, A Jones, B Kostiuk, A Kukreja, S Laroux, T Lissoos, RB McBride, F Najdawi, A Nayyar, MT Osterman, P Panchal, D Ruane, C Shah, B Shaikh, J Shamshoian, G Singh, K Sucipto, W Tahir, P Thakker, SP Travis, S Visvanathan, L Wilson     
+_**Digestive Disease Week (DDW)**, San Diego, CA, 2025_
+<br />
+<br />
+
 **Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC**  
 Chiharu Sako, Chong Duan, Kevin Maresca, Sean Kent, Hugo Aerts, Ravi Bharat Parikh, George R. Simon, Petr Jordan     
 _**American Society of Clinical Oncology (ASCO)**, Chicago, IL, 2024_
 <br />
 <br />
-
 
 **Machine Learning Can Distinguish Hypertrophic Cardiomyopathy, Cardiac Light Chain and Transthyretin Amyloidosis Using Cardiac Magnetic Resonance Imaging Data and Standard Clinical Information**  
 Weberling, L., Ochs, A., Benovoy, M., dem Siepen, F.A., Salatzki, J., Giannitsis, E., Duan, C., Maresca, K., Zhang, Y., Moller, J., Friedrich, S., Schonland, S., Meder, B., Friedrich, M., Frey, N., Andre, F.     
