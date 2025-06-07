@@ -4,6 +4,15 @@ title:
 author_profile: true
 sidebar: true
 ---
+**[Machine Learning to Automatically Differentiate Hypertrophic Cardiomyopathy, Cardiac Light Chain, and Cardiac Transthyretin Amyloidosis: A Multicenter CMR Study](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.124.017761)**  
+Weberling, L.D., Ochs, A., Benovoy, M., aus dem Siepen, F., Salatzki, J., Giannitsis, E., **Duan, C.**, Maresca, K., Zhang, Y., Möller, J., Friedrich, S., Schönland, S., Meder, B., Friedrich, M., Frey, D. and André F.  
+_Circulation: Cardiovascular Imaging (2024): e017761_
+![JCO CCI](../images/circimaging_2025.jpg)
+<br />
+<br />
+
+
+
 **[Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC](https://ascopubs.org/doi/10.1200/CCI.24.00133)**  
 Chiharu Sako, **Chong Duan**, Kevin Maresca, Sean Kent, Taly Gilat Schmidt, Hugo JWL Aerts, Ravi B. Parikh, George R. Simon, and Petr Jordan  
 _JCO Clinical Cancer Informatics 8 (2024): e2400133_
