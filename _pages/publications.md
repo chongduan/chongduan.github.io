@@ -6,7 +6,7 @@ sidebar: true
 ---
 **[Machine Learning to Automatically Differentiate Hypertrophic Cardiomyopathy, Cardiac Light Chain, and Cardiac Transthyretin Amyloidosis: A Multicenter CMR Study](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.124.017761)**  
 Weberling, L.D., Ochs, A., Benovoy, M., aus dem Siepen, F., Salatzki, J., Giannitsis, E., **Duan, C.**, Maresca, K., Zhang, Y., Möller, J., Friedrich, S., Schönland, S., Meder, B., Friedrich, M., Frey, D. and André F.  
-_Circulation: Cardiovascular Imaging (2024): e017761_
+_Circulation: Cardiovascular Imaging (2025): e017761_
 ![JCO CCI](../images/circimaging_2025.jpg)
 <br />
 <br />
