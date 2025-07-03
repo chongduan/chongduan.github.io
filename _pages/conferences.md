@@ -5,12 +5,12 @@ author_profile: true
 sidebar: true
 ---
 **[Association of deep learning CT response assessment and interpretable components with overall survival in advanced NSCLC: Validation in a trial of sasanlimab and a real-world dataset](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.1559)**  
-Sako, Chiharu, Taly Schmidt, **Chong Duan**, Kevin Maresca, Alan C. Gowan, Shraddha Vyas, George R. Simon, Ravi Bharat Parikh, Petr Jordan, and Ronan Joseph Kelly     
+Sako, Chiharu, Taly Schmidt, Chong Duan, Kevin Maresca, Alan C. Gowan, Shraddha Vyas, George R. Simon, Ravi Bharat Parikh, Petr Jordan, and Ronan Joseph Kelly     
 _**American Society of Clinical Oncology (ASCO)**, Chicago, IL, 2025_
 <br />
 <br />
 
-**[Consortium-driven development of pathology foundation model-based approaches for automated scoring of histopathology in ulcerative colitis](https://eposters.ddw.org/ddw/2025/ddw-2025/4156056/christina.jayson.consortium-driven.development.of.pathology.foundation.html?f=listing%3D0%2Abrowseby%3D8%2Asortby%3D1%2Asearch%3Dconsortium)**  
+**[Consortium-driven development of pathology foundation model-based approaches for automated scoring of histopathology in ulcerative colitis](https://www.sciencedirect.com/science/article/pii/S0016508525029658)**  
 TA Altepeter, S Bhattacharya, J Brosnan-Cashman, L Clinton, W Crandall, C Duan, JD Gale, M Griffin, V Gupta, H Haarmann, N Harpaz, A Hooper, J Horowitz, A Hurtado-Lorenzo, BE Hussaini, V Jairath, C Jayson, A Jones, B Kostiuk, A Kukreja, S Laroux, T Lissoos, RB McBride, F Najdawi, A Nayyar, MT Osterman, P Panchal, D Ruane, C Shah, B Shaikh, J Shamshoian, G Singh, K Sucipto, W Tahir, P Thakker, SP Travis, S Visvanathan, L Wilson     
 _**Digestive Disease Week (DDW)**, San Diego, CA, 2025_
 <br />
