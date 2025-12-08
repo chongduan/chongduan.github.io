@@ -4,6 +4,22 @@ title:
 author_profile: true
 sidebar: true
 ---
+**[Smartphone Typing Dynamics for Assessing Hand Function in Psoriatic Arthritis: A Proof-of-Concept Study](https://ieeexplore.ieee.org/document/11254608)**  
+Eleni Vasileiou, Georgios Apostolidis, Vasileios Charisis, Stelios Hadjidimitriou, Stavros Malakoudis, Nikolaos Karagkiozidis, Stelios Andreadis, Thanos G Stavropoulos, Vassilis Tsekouras, **Chong Duan**, Anastasia Matonaki, Sofia B Dias, Ilias Kitsas, Leontios Hadjileontiadis    
+_Annual International Conference of the IEEE Engineering in Medicine and Biology Society_  
+![IEEE-EMBC_typing](../images/IEEE-EMBC_typing.png)
+<br />
+<br />
+
+
+**[Smartphone Video Hand Gesture Analysis for Psoriatic Arthritis Assessment](https://ieeexplore.ieee.org/document/11254426)**  
+Georgios Apostolidis, Eleni Vasileiou, Stelios Hadjidimitriou, Vasileios Charisis, Stavros Malakoudis, Nikolaos Karagkiozidis, Stelios Andreadis, Thanos G Stavropoulos, Vassilis Tsekouras, **Chong Duan**, Anastasia Matonaki, Sofia B Dias, Ilias Kitsas, Leontios Hadjileontiadis   
+_Annual International Conference of the IEEE Engineering in Medicine and Biology Society_  
+![IEEE-EMBC_video-hand-gesture](../images/IEEE-EMBC_video-hand-gesture.png)
+<br />
+<br />
+
+
 **[Machine Learning to Automatically Differentiate Hypertrophic Cardiomyopathy, Cardiac Light Chain, and Cardiac Transthyretin Amyloidosis: A Multicenter CMR Study](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.124.017761)**  
 Weberling, L.D., Ochs, A., Benovoy, M., aus dem Siepen, F., Salatzki, J., Giannitsis, E., **Duan, C.**, Maresca, K., Zhang, Y., Möller, J., Friedrich, S., Schönland, S., Meder, B., Friedrich, M., Frey, D. and André F.  
 _Circulation: Cardiovascular Imaging (2025): e017761_
