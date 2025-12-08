@@ -6,7 +6,7 @@ sidebar: true
 ---
 **[Smartphone Typing Dynamics for Assessing Hand Function in Psoriatic Arthritis: A Proof-of-Concept Study](https://ieeexplore.ieee.org/document/11254608)**  
 Eleni Vasileiou, Georgios Apostolidis, Vasileios Charisis, Stelios Hadjidimitriou, Stavros Malakoudis, Nikolaos Karagkiozidis, Stelios Andreadis, Thanos G Stavropoulos, Vassilis Tsekouras, **Chong Duan**, Anastasia Matonaki, Sofia B Dias, Ilias Kitsas, Leontios Hadjileontiadis    
-_Annual International Conference of the IEEE Engineering in Medicine and Biology Society_  
+_Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2025)_  
 ![IEEE-EMBC_typing](../images/IEEE-EMBC_typing.png)
 <br />
 <br />
@@ -14,7 +14,7 @@ _Annual International Conference of the IEEE Engineering in Medicine and Biology
 
 **[Smartphone Video Hand Gesture Analysis for Psoriatic Arthritis Assessment](https://ieeexplore.ieee.org/document/11254426)**  
 Georgios Apostolidis, Eleni Vasileiou, Stelios Hadjidimitriou, Vasileios Charisis, Stavros Malakoudis, Nikolaos Karagkiozidis, Stelios Andreadis, Thanos G Stavropoulos, Vassilis Tsekouras, **Chong Duan**, Anastasia Matonaki, Sofia B Dias, Ilias Kitsas, Leontios Hadjileontiadis   
-_Annual International Conference of the IEEE Engineering in Medicine and Biology Society_  
+_Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2025)_  
 ![IEEE-EMBC_video-hand-gesture](../images/IEEE-EMBC_video-hand-gesture.png)
 <br />
 <br />
