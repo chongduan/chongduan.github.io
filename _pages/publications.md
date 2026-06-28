@@ -4,6 +4,22 @@ title:
 author_profile: true
 sidebar: true
 ---
+**[AI-Powered Lesion-Level Tumor Growth Inhibition Modeling Improves Model Stability and Prognostic Association With PFS](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.70279)**  
+ Alan Liu, **Chong Duan**, Kevin Maresca, Yazdi K. Pithavala, Jen-Tang Lu, Cathy Cen Guo, Jennifer E. Hibma  
+_CPT: Pharmacometrics & System Pharmacology (2026)_  
+![cpt-psp](../images/cpt-psp_2026.jpg)  
+<br />
+<br />
+
+
+**[Foundation model-based tool for automated ulcerative colitis histology scoring demonstrates non-inferiority to pathologists across multiple scoring indices](https://www.medrxiv.org/content/10.64898/2026.06.09.26355212v1)**  
+Waleed Tahir, John Shamshoian, John Tauber, Lani K Clinton, Michael Griffin, Chintan Shah, Geetika Singh, Darren Fahy, Kathleen Sucipto, Jacqueline Brosnan-Cashman, Tara A Altepeter, Sabyasachi Bhattacharya, Wallace Crandall, **Chong Duan**, Jeremy D Gale, Vandana Gupta, Helene Haarmann, Noam Harpaz, Andrea T Hooper, Julie Horowitz, Andres Hurtado-Lorenzo, Bader E Hussaini, Vipul Jairath, Autumn Jones, Ben Kostiuk, Anjli Kukreja, F Stephen Laroux, Trevor Lissoos, Russell B McBride, Fedaa Najdawi, Anil Nayyar, Mark T Osterman, Pratik Panchal, Darren Ruane, Simon Travis, Sudha Visvanathan, Laura Wilson, Christina Jayson  
+_medRxiv (2026)_  
+![FNIH-PathAI](../images/FNIH-PathAI_F1.jpg)  
+<br />
+<br />
+
+
 **[Smartphone Typing Dynamics for Assessing Hand Function in Psoriatic Arthritis: A Proof-of-Concept Study](https://ieeexplore.ieee.org/document/11254608)**  
 Eleni Vasileiou, Georgios Apostolidis, Vasileios Charisis, Stelios Hadjidimitriou, Stavros Malakoudis, Nikolaos Karagkiozidis, Stelios Andreadis, Thanos G Stavropoulos, Vassilis Tsekouras, **Chong Duan**, Anastasia Matonaki, Sofia B Dias, Ilias Kitsas, Leontios Hadjileontiadis    
 _Annual International Conference of the IEEE Engineering in Medicine and Biology Society (2025)_  
@@ -26,7 +42,6 @@ _Circulation: Cardiovascular Imaging (2025): e017761_
 ![JCO CCI](../images/circimaging_2025.jpg)
 <br />
 <br />
-
 
 
 **[Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC](https://ascopubs.org/doi/10.1200/CCI.24.00133)**  

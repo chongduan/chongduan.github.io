@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Director, Digital & Imaging AI Lead in the Digital Medicine & Translational Imaging group within Pfizer's Translational Clinical Sciences organization. I am interested in medical imaging, machine learning, and drug R&D.
+I am the Director, Digital & Imaging AI Lead in the Digital Medicine & Translational Imaging group within Pfizer's Translational Clinical Sciences organization. I am interested in medical imaging, machine learning, and drug R&D.
 
 I received a Bachelor's degree in Chemistry from [Nankai University](https://en.nankai.edu.cn/), a Master's degree in Computer Science from [Georgia Institute of Technology](https://www.gatech.edu/), and a PhD from [Washington University in St. Louis](https://wustl.edu/). My PhD thesis focused on cancer imaging:
 

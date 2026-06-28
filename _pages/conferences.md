@@ -10,7 +10,6 @@ _**European Society for Medical Oncology (ESMO)**, Berlin, Germany, 2025_
 <br />
 <br />
 
-
 **[Association of deep learning CT response assessment and interpretable components with overall survival in advanced NSCLC: Validation in a trial of sasanlimab and a real-world dataset](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.1559)**  
 Sako, Chiharu, Taly Schmidt, Chong Duan, Kevin Maresca, Alan C. Gowan, Shraddha Vyas, George R. Simon, Ravi Bharat Parikh, Petr Jordan, and Ronan Joseph Kelly     
 _**American Society of Clinical Oncology (ASCO)**, Chicago, IL, 2025_
