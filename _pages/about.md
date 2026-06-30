@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "Director of Digital & Imaging AI at Pfizer, focused on AI-driven imaging solutions for drug development."
+title: "About me"
+excerpt: "Director of Digital & Imaging AI at Pfizer, focused on AI-driven solutions for drug development."
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +21,7 @@ After my PhD, I conducted postdoctoral research in cardiovascular imaging at [Be
 
 ## Current Work
 
-At Pfizer, I lead the development, validation/qualification, and deployment of AI-based imaging and digital solutions across therapeutic areas. I enjoy building work that is both scientifically rigorous and practical enough to make a real difference in development programs.
+At Pfizer, I lead the development, validation/qualification, and deployment of AI-based imaging and digital solutions across therapeutic areas. I enjoy building work that is both scientifically rigorous and practical enough to make a real difference in clinicald evelopment programs.
 
 Selected projects:
 
@@ -35,7 +35,7 @@ Selected projects:
   - [ESMO 2025](https://www.annalsofoncology.org/article/S0923-7534(25)03556-2/fulltext)
   - [ESMO Daily Report Coverage](https://dailyreporter.esmo.org/esmo-congress-2025/ai-digital-oncology/new-artificial-intelligence-based-biomarkers-offer-early-insight-into-treatment-response)
 
-- **Deep learning biomarker for PD-(L)1 response prediction** using routine baseline CT scans, in collaboration with [Onc.AI](https://onc.ai/).
+- **Deep learning biomarker for PD-(L)1 response prediction** using routine CT scans, in collaboration with [Onc.AI](https://onc.ai/).
   - [ASCO 2024](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.102)
   - [ASCO 2025](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.1559)
   - [JCO CCI Paper](https://ascopubs.org/doi/10.1200/CCI.24.00133)
