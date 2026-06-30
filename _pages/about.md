@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "Director of Digital & Imaging AI at Pfizer, focused on AI-driven solutions for drug development."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am the Director and Digital & Imaging AI Lead in the Digital Medicine & Translational Imaging group within Pfizer's Translational Clinical Sciences organization. At a high level, I work at the intersection of medical imaging, machine learning, and drug R&D.
+I am the Director, Digital & Imaging AI Lead in the Digital Medicine & Translational Imaging group within Pfizer's Translational Clinical Sciences organization. At a high level, I work at the intersection of medical imaging, machine learning, and drug R&D.
 
 ## Background
 
