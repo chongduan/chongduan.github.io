@@ -38,7 +38,7 @@ _Annual International Conference of the IEEE Engineering in Medicine and Biology
 
 **[Machine Learning to Automatically Differentiate Hypertrophic Cardiomyopathy, Cardiac Light Chain, and Cardiac Transthyretin Amyloidosis: A Multicenter CMR Study](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.124.017761)**  
 Weberling, L.D., Ochs, A., Benovoy, M., aus dem Siepen, F., Salatzki, J., Giannitsis, E., **Duan, C.**, Maresca, K., Zhang, Y., Möller, J., Friedrich, S., Schönland, S., Meder, B., Friedrich, M., Frey, D. and André F.  
-_Circulation: Cardiovascular Imaging (2025): e017761_
+_Circulation: Cardiovascular Imaging (2025): e017761_  
 <img src="../images/circimaging_2025.jpg" alt="JCO CCI" width="400" height="auto">
 <br />
 <br />
@@ -46,14 +46,14 @@ _Circulation: Cardiovascular Imaging (2025): e017761_
 
 **[Real-world and clinical trial validation of a deep learning radiomic biomarker for PD-(L)1 immune checkpoint inhibitor response in stage IV NSCLC](https://ascopubs.org/doi/10.1200/CCI.24.00133)**  
 Chiharu Sako, **Chong Duan**, Kevin Maresca, Sean Kent, Taly Gilat Schmidt, Hugo JWL Aerts, Ravi B. Parikh, George R. Simon, and Petr Jordan  
-_JCO Clinical Cancer Informatics 8 (2024): e2400133_
+_JCO Clinical Cancer Informatics 8 (2024): e2400133_  
 <img src="../images/JCO_CCI_2024.jpg" alt="JCO CCI" width="400" height="auto">
 <br />
 <br />
 
 **[Applying deep learning to segmentation of murine lung tumors in pre-clinical micro-computed tomography](https://authors.elsevier.com/sd/article/S1936-5233(23)00219-X)**  
 Mary Katherine Montgomery, **Chong Duan**, Lisa Manzuk, Stephanie Chang, Aiyana Cubias, Sonja Brun, Anand Giddabasappa, Ziyue Karen Jiang  
-_Translational Oncology 40 (2024): 101833_
+_Translational Oncology 40 (2024): 101833_  
 <img src="../images/lung-cancer_trans-onc.jpg" alt="lung tumors" width="400" height="auto">
 <br />
 <br />
@@ -81,7 +81,7 @@ _Radiology: Artificial Intelligence 2.1 (2020): e190034._
 
 **[Non‐contrast myocardial infarct scar assessment using a hybrid native T1 and magnetization transfer imaging sequence at 1.5 T](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.27636)**  
 **Chong Duan**, Yanjie Zhu, Jihye Jang, Jennifer Rodriguez, Ulf Neisius, Ahmed S. Fahmy, Reza Nezafat  
-_Magnetic resonance in medicine 81, no. 5 (2019): 3192-3201._ [[GitHub](https://github.com/chongduan/HYTOM)]  
+_Magnetic resonance in medicine 81, no. 5 (2019): 3192-3201._   
 <img src="../images/HYTOM_example.png" alt="HYTOM_Ex" width="400" height="auto">  
 <br />
 <br />
@@ -109,7 +109,7 @@ _International Journal of Radiation Oncology* Biology* Physics 103, no. 1 (2019)
 
 **[Inhibitors of HIF-1α and CXCR4 mitigate the development of radiation necrosis in mouse brain](https://www.redjournal.org/article/S0360-3016(17)34478-4/abstract)**  
 Yang, Ruimeng, **Chong Duan**, Liya Yuan, John A. Engelbach, Christina I. Tsien, Scott C. Beeman, Carlos J. Perez-Torres, Xia Ge, Kieth M. Rich, Joseph JH Ackerman, Joel R. Garbow  
-_International Journal of Radiation Oncology* Biology* Physics 100, no. 4 (2018): 1016-1025._
+_International Journal of Radiation Oncology* Biology* Physics 100, no. 4 (2018): 1016-1025._  
 <img src="../images/redjournal_Karen.jpg" alt="redjournal_karen" width="400" height="auto">
 <br />
 <br />
@@ -172,7 +172,7 @@ _Acta Oncologica 53, no. 8 (2014): 1064-1072._
 
 **[Phosphane‐Catalyzed [4+ 1] Annulation between Nitroalkenes and Morita–Baylis–Hillman Carbonates: Facile Synthesis of Isoxazoline N‐Oxides by Phosphorus Ylides](https://onlinelibrary.wiley.com/doi/abs/10.1002/asia.201301633)**  
 Zhou, Rong, **Chong Duan**, Changjiang Yang, Zhengjie He  
-_Chemistry–An Asian Journal 9, no. 4 (2014): 1183-1189._ 
+_Chemistry–An Asian Journal 9, no. 4 (2014): 1183-1189._  
 <br />
 <br />
 
