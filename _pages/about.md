@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am the Director, Digital & Imaging AI Lead in the Digital Medicine & Translational Imaging group within Pfizer's Translational Clinical Sciences organization. At a high level, I work at the intersection of medical imaging, machine learning, and drug R&D.
+I am Director, Digital & Imaging AI Lead in Pfizer's Digital Medicine & Translational Imaging group within Translational Clinical Sciences, R&D. My work sits at the intersection of medical imaging, machine learning, and drug development, advancing innovative approaches to clinical decision-making. 
 
 ## Background
 

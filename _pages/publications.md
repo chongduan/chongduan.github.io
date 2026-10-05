@@ -4,8 +4,16 @@ title:
 author_profile: true
 sidebar: true
 ---
+**[Artificial intelligence-enabled early intracranial volumetric response predicts systemic progression-free survival in the phase III CROWN study](https://academic.oup.com/noa/article/8/1/vdag236/8787391)**  
+Shao-Lun Lu, Yu-Cheng Chang, Chih-Hung Liang, Po-Lin Chiang, Kevin Maresca, Erqi Pollom, Keith Wilner, Jen-Tang Lu, Francesca Toffalorio, Giuseppe Giaccone, **Chong Duan**  
+_Neuro-Oncology Advances (2026)_  
+<img src="../images/NOA.jpeg" alt="NOA" width="400" height="auto">  
+<br />
+<br />
+
+
 **[AI-Powered Lesion-Level Tumor Growth Inhibition Modeling Improves Model Stability and Prognostic Association With PFS](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/psp4.70279)**  
- Alan Liu, **Chong Duan**, Kevin Maresca, Yazdi K. Pithavala, Jen-Tang Lu, Cathy Cen Guo, Jennifer E. Hibma  
+Alan Liu, **Chong Duan**, Kevin Maresca, Yazdi K. Pithavala, Jen-Tang Lu, Cathy Cen Guo, Jennifer E. Hibma  
 _CPT: Pharmacometrics & System Pharmacology (2026)_  
 <img src="../images/cpt-psp_2026.jpg" alt="cpt-psp" width="400" height="auto">  
 <br />
