@@ -4,6 +4,12 @@ title:
 author_profile: true
 sidebar: true
 ---
+**[Early On-Treatment Prediction of Long-Term PFS Using a Joint AI-Imaging and ctDNA Model in the CROWN Study](https://www.jto.org/article/S1556-0864(26)01473-5/fulltext)**  
+H. Zhang, I.-M. Wang, N. Rifi, J.-T. Lu, S. Deng, B.J. Solomon, C. Duan   
+_**World Conference on Lung Cancer (WCLC)**, Seoul, South Korea, 2026_
+<br />
+<br />
+
 **[A post-hoc analysis of the CROWN study in ALK+ NSCLC using AI to predict progression-free survival based on early response](https://www.annalsofoncology.org/article/S0923-7534(25)03556-2/fulltext)**  
 S-L. Lu, Y-C. Chang, C-H. Liang, P-L. Chiang, K. Maresca, E. Pollom, K. Wilner, J-T. Lu, F. Toffalorio, G. Giaccone, and C. Duan   
 _**European Society for Medical Oncology (ESMO)**, Berlin, Germany, 2025_
