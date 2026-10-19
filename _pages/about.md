@@ -30,15 +30,16 @@ Selected projects:
   - [GitHub](https://github.com/pfizer-opensource/mouse-echo-neural-net)
   - [AWS Blog](https://aws.amazon.com/blogs/industries/pfizers-echocardiography-analysis-framework-reduces-time-by-92-using-aws/)
 
-- **AI-based solid tumor response assessment in clinical trials**, in collaboration with [Vysioneer](https://www.vysioneer.com/), to support earlier and more informed decision-making in oncology development.
+- **AI-enhanced tumor response assessments in clinical trials**, in collaboration with [Vysioneer](https://www.vysioneer.com/), to support earlier and more informed decision-making in oncology development.
   - [ESMO 2023](https://doi.org/10.1016/j.annonc.2023.09.2452)
   - [ESMO 2025](https://www.annalsofoncology.org/article/S0923-7534(25)03556-2/fulltext)
-  - [ESMO Daily Report Coverage](https://dailyreporter.esmo.org/esmo-congress-2025/ai-digital-oncology/new-artificial-intelligence-based-biomarkers-offer-early-insight-into-treatment-response)
+  - [ESMO Daily Report](https://dailyreporter.esmo.org/esmo-congress-2025/ai-digital-oncology/new-artificial-intelligence-based-biomarkers-offer-early-insight-into-treatment-response)
+  - [NOA 2026](https://academic.oup.com/noa/article/8/1/vdag236/8787391)
 
 - **Deep learning biomarker for PD-(L)1 response prediction** using routine CT scans, in collaboration with [Onc.AI](https://onc.ai/).
   - [ASCO 2024](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.102)
+  - [JCO CCI 2024](https://ascopubs.org/doi/10.1200/CCI.24.00133)
   - [ASCO 2025](https://ascopubs.org/doi/abs/10.1200/JCO.2025.43.16_suppl.1559)
-  - [JCO CCI Paper](https://ascopubs.org/doi/10.1200/CCI.24.00133)
 
 ## Consortia and Public-Private Partnerships
 
