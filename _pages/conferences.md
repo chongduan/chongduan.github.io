@@ -1,6 +1,6 @@
 ---
 permalink: /conferences
-title: 
+title: "Conferences"
 author_profile: true
 sidebar: true
 ---

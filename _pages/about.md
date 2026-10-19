@@ -21,7 +21,7 @@ After my PhD, I conducted postdoctoral research in cardiovascular imaging at [Be
 
 ## Current Work
 
-At Pfizer, I lead the development, validation/qualification, and deployment of AI-based imaging and digital solutions across therapeutic areas. I enjoy building work that is both scientifically rigorous and practical enough to make a real difference in clinicald evelopment programs.
+At Pfizer, I lead the development, validation/qualification, and deployment of AI-based imaging and digital solutions across therapeutic areas. I enjoy building work that is both scientifically rigorous and practical enough to make a real difference in clinical development programs.
 
 Selected projects:
 
