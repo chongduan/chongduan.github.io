@@ -3,6 +3,7 @@ permalink: /talks
 title: "Talks"
 author_profile: true
 sidebar: true
+published: false
 ---
 **Developing and Deploying Deep Learning-based Echocardiography Analysis with AWS**  
 Chong Duan  

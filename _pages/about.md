@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Profile"
 excerpt: "Director of Digital & Imaging AI at Pfizer, focused on AI-driven solutions for drug development."
 author_profile: true
 redirect_from: 
