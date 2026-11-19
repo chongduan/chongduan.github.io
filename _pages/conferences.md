@@ -4,6 +4,12 @@ title: "Conferences"
 author_profile: true
 sidebar: true
 ---
+**[Fully automated RECIST 1.1 yields human-aligned progression-free survival estimates in NSCLC immunotherapy](https://jitc.bmj.com/content/14/Suppl_2/A79)**  
+P. Jordan, C. Duan, C. Sako, R. Beasley, T.G. Schmidt, R. McCall, K. Maresca, S. Champiat, G.R. Simon, R. Parikh, B.D. Curti    
+_**Society for Immunotherapy of Cancer (SITC)**, Phoenix, AZ, 2026_
+<br />
+<br />
+
 **[Early On-Treatment Prediction of Long-Term PFS Using a Joint AI-Imaging and ctDNA Model in the CROWN Study](https://www.jto.org/article/S1556-0864(26)01473-5/fulltext)**  
 H. Zhang, I.-M. Wang, N. Rifi, J.-T. Lu, S. Deng, B.J. Solomon, C. Duan   
 _**World Conference on Lung Cancer (WCLC)**, Seoul, South Korea, 2026_
