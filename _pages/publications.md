@@ -22,7 +22,7 @@ _CPT: Pharmacometrics & System Pharmacology (2026)_
 
 **[Foundation model-based tool for automated ulcerative colitis histology scoring demonstrates non-inferiority to pathologists across multiple scoring indices](https://www.medrxiv.org/content/10.64898/2026.06.09.26355212v1)**  
 Waleed Tahir, John Shamshoian, John Tauber, Lani K Clinton, Michael Griffin, Chintan Shah, Geetika Singh, Darren Fahy, Kathleen Sucipto, Jacqueline Brosnan-Cashman, Tara A Altepeter, Sabyasachi Bhattacharya, Wallace Crandall, **Chong Duan**, Jeremy D Gale, Vandana Gupta, Helene Haarmann, Noam Harpaz, Andrea T Hooper, Julie Horowitz, Andres Hurtado-Lorenzo, Bader E Hussaini, Vipul Jairath, Autumn Jones, Ben Kostiuk, Anjli Kukreja, F Stephen Laroux, Trevor Lissoos, Russell B McBride, Fedaa Najdawi, Anil Nayyar, Mark T Osterman, Pratik Panchal, Darren Ruane, Simon Travis, Sudha Visvanathan, Laura Wilson, Christina Jayson  
-_medRxiv (2026)_  
+_medRxiv preprint (2026)_  
 <img src="../images/FNIH-PathAI_F1.jpg" alt="FNIH-PathAI" width="400" height="auto">  
 <br />
 <br />
@@ -45,7 +45,7 @@ _Annual International Conference of the IEEE Engineering in Medicine and Biology
 
 
 **[Machine Learning to Automatically Differentiate Hypertrophic Cardiomyopathy, Cardiac Light Chain, and Cardiac Transthyretin Amyloidosis: A Multicenter CMR Study](https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.124.017761)**  
-Weberling, L.D., Ochs, A., Benovoy, M., aus dem Siepen, F., Salatzki, J., Giannitsis, E., **Duan, C.**, Maresca, K., Zhang, Y., Möller, J., Friedrich, S., Schönland, S., Meder, B., Friedrich, M., Frey, D. and André F.  
+Weberling, L.D., Ochs, A., Benovoy, M., aus dem Siepen, F., Salatzki, J., Giannitsis, E., **Duan, C.**, Maresca, K., Zhang, Y., Möller, J., Friedrich, S., Schönland, S., Meder, B., Friedrich, M., Frey, N. and André F.  
 _Circulation: Cardiovascular Imaging (2025): e017761_  
 <img src="../images/circimaging_2025.jpg" alt="JCO CCI" width="400" height="auto">
 <br />
@@ -116,7 +116,7 @@ _International Journal of Radiation Oncology* Biology* Physics 103, no. 1 (2019)
 <br />
 
 **[Inhibitors of HIF-1α and CXCR4 mitigate the development of radiation necrosis in mouse brain](https://www.redjournal.org/article/S0360-3016(17)34478-4/abstract)**  
-Yang, Ruimeng, **Chong Duan**, Liya Yuan, John A. Engelbach, Christina I. Tsien, Scott C. Beeman, Carlos J. Perez-Torres, Xia Ge, Kieth M. Rich, Joseph JH Ackerman, Joel R. Garbow  
+Yang, Ruimeng, **Chong Duan**, Liya Yuan, John A. Engelbach, Christina I. Tsien, Scott C. Beeman, Carlos J. Perez-Torres, Xia Ge, Keith M. Rich, Joseph JH Ackerman, Joel R. Garbow  
 _International Journal of Radiation Oncology* Biology* Physics 100, no. 4 (2018): 1016-1025._  
 <img src="../images/redjournal_Karen.jpg" alt="redjournal_karen" width="400" height="auto">
 <br />
@@ -165,7 +165,7 @@ _PLoS One 11, no. 2 (2016): e0148613._
 <br />
 
 **[Renal DCE-MRI model selection using bayesian probability theory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6024409/)**  
-Beeman, Scott C., Patrick Osei-Owusu, Chong Duan, John Engelbach, G. Larry Bretthorst, Joseph JH Ackerman, Kendall J. Blumer, Joel R. Garbow.  
+Beeman, Scott C., Patrick Osei-Owusu, **Chong Duan**, John Engelbach, G. Larry Bretthorst, Joseph JH Ackerman, Kendall J. Blumer, Joel R. Garbow.  
 _Tomography 1, no. 1 (2015): 61._  
 <img src="../images/Renal_DCE.png" alt="Renal_DCE" width="400" height="auto">  
 <br />
