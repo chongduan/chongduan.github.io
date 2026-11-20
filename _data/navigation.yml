@@ -9,8 +9,8 @@ main:
   - title: "Conferences"
     url: /conferences
 
-  - title: "CV"
-    url: /files/chong-duan-cv.pdf
+#  - title: "CV"
+#    url: /files/chong-duan-cv.pdf
 
 #  - title: "Teaching"
 #    url: /teaching/
