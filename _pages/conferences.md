@@ -4,6 +4,12 @@ title: "Conferences"
 author_profile: true
 sidebar: true
 ---
+**[131P Prospective validation of artificial intelligence (AI)–assisted RECIST 1.1 in a phase 1 study of fetrastobart vedotin in patients with non-small cell lung cancer (NSCLC)](https://www.annalsofoncology.org/article/S0923-7534(26)01637-6/fulltext)**  
+E. Fontana, **C. Duan**, M. Saul, P. Galette, S. Willingham, J-T. Lu, A. Wehr, S. Gupta, M. Stecher, M. Oliva Bernal, L. Nabell  
+_**European Society for Medical Oncology (ESMO)**, Madrid, Spain, 2026_
+<br />
+<br />
+
 **[Fully automated RECIST 1.1 yields human-aligned progression-free survival estimates in NSCLC immunotherapy](https://jitc.bmj.com/content/14/Suppl_2/A79)**  
 P. Jordan, **C. Duan**, C. Sako, R. Beasley, T.G. Schmidt, R. McCall, K. Maresca, S. Champiat, G.R. Simon, R. Parikh, B.D. Curti    
 _**Society for Immunotherapy of Cancer (SITC)**, Phoenix, AZ, 2026_
